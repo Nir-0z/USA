@@ -1,206 +1,614 @@
 [
-  {
-    "id": "US-AL",
-    "name": "אלבמה"
-  },
-  {
-    "id": "US-AK",
-    "name": "אלסקה"
-  },
-  {
-    "id": "US-AR",
-    "name": "ארקנסו"
-  },
-  {
-    "id": "US-AZ",
-    "name": "אריזונה"
-  },
-  {
-    "id": "US-CA",
-    "name": "קליפורניה"
-  },
-  {
-    "id": "US-CO",
-    "name": "קולורדו"
-  },
-  {
-    "id": "US-CT",
-    "name": "קונטיקט"
-  },
-  {
-    "id": "US-DC",
-    "name": "וושינגטון די סי"
-  },
-  {
-    "id": "US-DE",
-    "name": "דלאוור"
-  },
-  {
-    "id": "US-FL",
-    "name": "פלורידה"
-  },
-  {
-    "id": "US-GA",
-    "name": "ג'ורג'יה"
-  },
-  {
-    "id": "US-HI",
-    "name": "הוואי"
-  },
-  {
-    "id": "US-ID",
-    "name": "איידהו"
-  },
-  {
-    "id": "US-IL",
-    "name": "אילינוי"
-  },
-  {
-    "id": "US-IN",
-    "name": "אינדיאנה"
-  },
-  {
-    "id": "US-IA",
-    "name": "איווה"
-  },
-  {
-    "id": "US-KS",
-    "name": "קנזס"
-  },
-  {
-    "id": "US-KY",
-    "name": "קנטקי"
-  },
-  {
-    "id": "US-LA",
-    "name": "לואיזיאנה"
-  },
-  {
-    "id": "US-ME",
-    "name": "מיין"
-  },
-  {
-    "id": "US-MD",
-    "name": "מרילנד"
-  },
-  {
-    "id": "US-MA",
-    "name": "מסצ'וסטס"
-  },
-  {
-    "id": "US-MI",
-    "name": "מישיגן"
-  },
-  {
-    "id": "US-MN",
-    "name": "מינסוטה"
-  },
-  {
-    "id": "US-MS",
-    "name": "מיסיספי"
-  },
-  {
-    "id": "US-MO",
-    "name": "מיזורי"
-  },
-  {
-    "id": "US-MT",
-    "name": "מונטנה"
-  },
-  {
-    "id": "US-NE",
-    "name": "נברסקה"
-  },
-  {
-    "id": "US-NV",
-    "name": "נבדה"
-  },
-  {
-    "id": "US-NH",
-    "name": "ניו המפשייר"
-  },
-  {
-    "id": "US-NJ",
-    "name": "ניו ג'רזי"
-  },
-  {
-    "id": "US-NM",
-    "name": "ניו מקסיקו"
-  },
-  {
-    "id": "US-NY",
-    "name": "ניו יורק"
-  },
-  {
-    "id": "US-NC",
-    "name": "קרוליינה הצפונית"
-  },
-  {
-    "id": "US-ND",
-    "name": "דקוטה הצפונית"
-  },
-  {
-    "id": "US-OH",
-    "name": "אוהיו"
-  },
-  {
-    "id": "US-OK",
-    "name": "אוקלהומה"
-  },
-  {
-    "id": "US-OR",
-    "name": "אורגון"
-  },
-  {
-    "id": "US-PA",
-    "name": "פנסילבניה"
-  },
-  {
-    "id": "US-RI",
-    "name": "רוד איילנד"
-  },
-  {
-    "id": "US-SC",
-    "name": "קרוליינה הדרומית"
-  },
-  {
-    "id": "US-SD",
-    "name": "דקוטה הדרומית"
-  },
-  {
-    "id": "US-TN",
-    "name": "טנסי"
-  },
-  {
-    "id": "US-TX",
-    "name": "טקסס"
-  },
-  {
-    "id": "US-UT",
-    "name": "יוטה"
-  },
-  {
-    "id": "US-VT",
-    "name": "ורמונט"
-  },
-  {
-    "id": "US-VA",
-    "name": "וירג'יניה"
-  },
-  {
-    "id": "US-WA",
-    "name": "וושינגטון"
-  },
-  {
-    "id": "US-WV",
-    "name": "וירג'יניה המערבית"
-  },
-  {
-    "id": "US-WI",
-    "name": "ויסקונסין"
-  },
-  {
-    "id": "US-WY",
-    "name": "ויומינג"
-  }
+    {
+        "id": "US-WY",
+        "name": "åéåîéðâ",
+        "state": "WY",
+        "total": "248,945",
+        "cand1": "Trump",
+        "vote1": "174,419",
+        "cand2": "Clinton",
+        "vote2": "55,973",
+        "cand3": "Other",
+        "vote3": "18,553"
+    },
+    {
+        "id": "US-WV",
+        "name": "åéøâ'éðéä äîòøáéú",
+        "state": "WV",
+        "total": "713,051",
+        "cand1": "Trump",
+        "vote1": "489,371",
+        "cand2": "Clinton",
+        "vote2": "188,794",
+        "cand3": "Other",
+        "vote3": "34,886"
+    },
+    {
+        "id": "US-WI",
+        "name": "åéñ÷åðñéï",
+        "state": "WI",
+        "total": "2,941,000",
+        "cand1": "Trump",
+        "vote1": "1,405,284",
+        "cand2": "Clinton",
+        "vote2": "1,382,536",
+        "cand3": "Other",
+        "vote3": "153,180"
+    },
+    {
+        "id": "US-WA",
+        "name": "ååùéðâèåï",
+        "state": "WA",
+        "total": "3,209,214",
+        "cand1": "Clinton",
+        "vote1": "1,742,718",
+        "cand2": "Trump",
+        "vote2": "1,221,747",
+        "cand3": "Other",
+        "vote3": "244,749"
+    },
+    {
+        "id": "US-VT",
+        "name": "åøîåðè",
+        "state": "VT",
+        "total": "292,168",
+        "cand1": "Clinton",
+        "vote1": "178,573",
+        "cand2": "Trump",
+        "vote2": "95,369",
+        "cand3": "Other",
+        "vote3": "18,226"
+    },
+    {
+        "id": "US-VA",
+        "name": "åéøâ'éðéä",
+        "state": "VA",
+        "total": "3,950,882",
+        "cand1": "Clinton",
+        "vote1": "1,981,473",
+        "cand2": "Trump",
+        "vote2": "1,769,443",
+        "cand3": "Other",
+        "vote3": "199,966"
+    },
+    {
+        "id": "US-UT",
+        "name": "éåèä",
+        "state": "UT",
+        "total": "1,131,375",
+        "cand1": "Trump",
+        "vote1": "515,231",
+        "cand2": "Clinton",
+        "vote2": "310,676",
+        "cand3": "Other",
+        "vote3": "305,468"
+    },
+    {
+        "id": "US-TX",
+        "name": "è÷ññ",
+        "state": "TX",
+        "total": "8,917,965",
+        "cand1": "Trump",
+        "vote1": "4,685,047",
+        "cand2": "Clinton",
+        "vote2": "3,877,868",
+        "cand3": "Other",
+        "vote3": "355,050"
+    },
+    {
+        "id": "US-TN",
+        "name": "èðñé",
+        "state": "TN",
+        "total": "2,494,238",
+        "cand1": "Trump",
+        "vote1": "1,522,925",
+        "cand2": "Clinton",
+        "vote2": "870,695",
+        "cand3": "Other",
+        "vote3": "100,618"
+    },
+    {
+        "id": "US-SD",
+        "name": "ã÷åèä äãøåîéú",
+        "state": "SD",
+        "total": "370,093",
+        "cand1": "Trump",
+        "vote1": "227,721",
+        "cand2": "Clinton",
+        "vote2": "117,458",
+        "cand3": "Other",
+        "vote3": "24,914"
+    },
+    {
+        "id": "US-SC",
+        "name": "÷øåìééðä äãøîåéú",
+        "state": "SC",
+        "total": "2,103,027",
+        "cand1": "Trump",
+        "vote1": "1,155,389",
+        "cand2": "Clinton",
+        "vote2": "855,373",
+        "cand3": "Other",
+        "vote3": "92,265"
+    },
+    {
+        "id": "US-RI",
+        "name": "øåã àééìðã",
+        "state": "RI",
+        "total": "454,705",
+        "cand1": "Clinton",
+        "vote1": "252,525",
+        "cand2": "Trump",
+        "vote2": "180,543",
+        "cand3": "Other",
+        "vote3": "21,637"
+    },
+    {
+        "id": "US-PA",
+        "name": "ôðñéìáðéä",
+        "state": "PA",
+        "total": "6,115,402",
+        "cand1": "Trump",
+        "vote1": "2,970,733",
+        "cand2": "Clinton",
+        "vote2": "2,926,441",
+        "cand3": "Other",
+        "vote3": "218,228"
+    },
+    {
+        "id": "US-OR",
+        "name": "àåøâåï",
+        "state": "OR",
+        "total": "1,928,742",
+        "cand1": "Clinton",
+        "vote1": "1,002,106",
+        "cand2": "Trump",
+        "vote2": "782,403",
+        "cand3": "Other",
+        "vote3": "144,233"
+    },
+    {
+        "id": "US-OK",
+        "name": "àå÷ìäåîä",
+        "state": "OK",
+        "total": "1,452,992",
+        "cand1": "Trump",
+        "vote1": "949,136",
+        "cand2": "Clinton",
+        "vote2": "420,375",
+        "cand3": "Other",
+        "vote3": "83,481"
+    },
+    {
+        "id": "US-OH",
+        "name": "àåäéå",
+        "state": "OH",
+        "total": "5,480,173",
+        "cand1": "Trump",
+        "vote1": "2,841,005",
+        "cand2": "Clinton",
+        "vote2": "2,394,164",
+        "cand3": "Other",
+        "vote3": "245,004"
+    },
+    {
+        "id": "US-NY",
+        "name": "ðéå éåø÷",
+        "state": "NY",
+        "total": "7,660,190",
+        "cand1": "Clinton",
+        "vote1": "4,556,124",
+        "cand2": "Trump",
+        "vote2": "2,819,534",
+        "cand3": "Other",
+        "vote3": "284,532"
+    },
+    {
+        "id": "US-NV",
+        "name": "ðáãä",
+        "state": "NV",
+        "total": "1,125,385",
+        "cand1": "Clinton",
+        "vote1": "539,260",
+        "cand2": "Trump",
+        "vote2": "512,058",
+        "cand3": "Other",
+        "vote3": "74,067"
+    },
+    {
+        "id": "US-NM",
+        "name": "ðéå î÷ñé÷å",
+        "state": "NM",
+        "total": "798,319",
+        "cand1": "Clinton",
+        "vote1": "385,234",
+        "cand2": "Trump",
+        "vote2": "319,667",
+        "cand3": "Other",
+        "vote3": "93,418"
+    },
+    {
+        "id": "US-NJ",
+        "name": "ðéå â'øæé",
+        "state": "NJ",
+        "total": "3,874,046",
+        "cand1": "Clinton",
+        "vote1": "2,148,278",
+        "cand2": "Trump",
+        "vote2": "1,601,933",
+        "cand3": "Other",
+        "vote3": "123,835"
+    },
+    {
+        "id": "US-NH",
+        "name": "ðéå äîôùééø",
+        "state": "NH",
+        "total": "732,267",
+        "cand1": "Clinton",
+        "vote1": "348,526",
+        "cand2": "Trump",
+        "vote2": "345,790",
+        "cand3": "Other",
+        "vote3": "37,951"
+    },
+    {
+        "id": "US-NE",
+        "name": "ðáøñ÷ä",
+        "state": "NE",
+        "total": "828,176",
+        "cand1": "Trump",
+        "vote1": "495,961",
+        "cand2": "Clinton",
+        "vote2": "284,494",
+        "cand3": "Other",
+        "vote3": "47,721"
+    },
+    {
+        "id": "US-ND",
+        "name": "ã÷åèä äöôåðéú",
+        "state": "ND",
+        "total": "337,963",
+        "cand1": "Trump",
+        "vote1": "216,794",
+        "cand2": "Clinton",
+        "vote2": "93,758",
+        "cand3": "Other",
+        "vote3": "27,411"
+    },
+    {
+        "id": "US-NC",
+        "name": "÷øåìééðä äöôåðéú",
+        "state": "NC",
+        "total": "4,682,073",
+        "cand1": "Trump",
+        "vote1": "2,362,631",
+        "cand2": "Clinton",
+        "vote2": "2,189,316",
+        "cand3": "Other",
+        "vote3": "130,126"
+    },
+    {
+        "id": "US-MT",
+        "name": "îåðèðä",
+        "state": "MT",
+        "total": "494,526",
+        "cand1": "Trump",
+        "vote1": "279,240",
+        "cand2": "Clinton",
+        "vote2": "177,709",
+        "cand3": "Other",
+        "vote3": "37,577"
+    },
+    {
+        "id": "US-MS",
+        "name": "îéñéñéôé",
+        "state": "MS",
+        "total": "1,209,357",
+        "cand1": "Trump",
+        "vote1": "700,714",
+        "cand2": "Clinton",
+        "vote2": "485,131",
+        "cand3": "Other",
+        "vote3": "23,512"
+    },
+    {
+        "id": "US-MO",
+        "name": "îéæåøé",
+        "state": "MO",
+        "total": "2,801,449",
+        "cand1": "Trump",
+        "vote1": "1,594,511",
+        "cand2": "Clinton",
+        "vote2": "1,071,068",
+        "cand3": "Other",
+        "vote3": "135,870"
+    },
+    {
+        "id": "US-MN",
+        "name": "îéðñåèä",
+        "state": "MN",
+        "total": "2,917,550",
+        "cand1": "Clinton",
+        "vote1": "1,367,716",
+        "cand2": "Trump",
+        "vote2": "1,322,951",
+        "cand3": "Other",
+        "vote3": "226,883"
+    },
+    {
+        "id": "US-MI",
+        "name": "îéùéâï",
+        "state": "MI",
+        "total": "4,790,329",
+        "cand1": "Trump",
+        "vote1": "2,279,543",
+        "cand2": "Clinton",
+        "vote2": "2,268,839",
+        "cand3": "Other",
+        "vote3": "241,947"
+    },
+    {
+        "id": "US-ME",
+        "name": "îééï",
+        "state": "ME",
+        "total": "745,684",
+        "cand1": "Clinton",
+        "vote1": "357,735",
+        "cand2": "Trump",
+        "vote2": "335,593",
+        "cand3": "Other",
+        "vote3": "52,356"
+    },
+    {
+        "id": "US-MD",
+        "name": "îøéìðã",
+        "state": "MD",
+        "total": "2,736,647",
+        "cand1": "Clinton",
+        "vote1": "1,677,928",
+        "cand2": "Trump",
+        "vote2": "943,169",
+        "cand3": "Other",
+        "vote3": "115,550"
+    },
+    {
+        "id": "US-MA",
+        "name": "îñö'åñèñ",
+        "state": "MA",
+        "total": "3,271,768",
+        "cand1": "Clinton",
+        "vote1": "1,995,196",
+        "cand2": "Trump",
+        "vote2": "1,090,893",
+        "cand3": "Other",
+        "vote3": "185,679"
+    },
+    {
+        "id": "US-LA",
+        "name": "ìåàéæéàðä",
+        "state": "LA",
+        "total": "2,029,032",
+        "cand1": "Trump",
+        "vote1": "1,178,638",
+        "cand2": "Clinton",
+        "vote2": "780,154",
+        "cand3": "Other",
+        "vote3": "70,240"
+    },
+    {
+        "id": "US-KY",
+        "name": "÷ðè÷é",
+        "state": "KY",
+        "total": "1,923,398",
+        "cand1": "Trump",
+        "vote1": "1,202,971",
+        "cand2": "Clinton",
+        "vote2": "628,854",
+        "cand3": "Other",
+        "vote3": "91,573"
+    },
+    {
+        "id": "US-KS",
+        "name": "÷ðæñ",
+        "state": "KS",
+        "total": "1,176,935",
+        "cand1": "Trump",
+        "vote1": "671,018",
+        "cand2": "Clinton",
+        "vote2": "427,005",
+        "cand3": "Other",
+        "vote3": "78,912"
+    },
+    {
+        "id": "US-IN",
+        "name": "àéðãéàðä",
+        "state": "IN",
+        "total": "2,724,405",
+        "cand1": "Trump",
+        "vote1": "1,557,286",
+        "cand2": "Clinton",
+        "vote2": "1,033,126",
+        "cand3": "Other",
+        "vote3": "133,993"
+    },
+    {
+        "id": "US-IL",
+        "name": "àéìéðåé",
+        "state": "IL",
+        "total": "5,523,142",
+        "cand1": "Clinton",
+        "vote1": "3,090,729",
+        "cand2": "Trump",
+        "vote2": "2,146,015",
+        "cand3": "Other",
+        "vote3": "286,398"
+    },
+    {
+        "id": "US-ID",
+        "name": "àééãäå",
+        "state": "ID",
+        "total": "690,255",
+        "cand1": "Trump",
+        "vote1": "409,055",
+        "cand2": "Clinton",
+        "vote2": "189,765",
+        "cand3": "Other",
+        "vote3": "91,435"
+    },
+    {
+        "id": "US-IA",
+        "name": "àéååä",
+        "state": "IA",
+        "total": "1,548,285",
+        "cand1": "Trump",
+        "vote1": "800,983",
+        "cand2": "Clinton",
+        "vote2": "653,669",
+        "cand3": "Other",
+        "vote3": "93,633"
+    },
+    {
+        "id": "US-HI",
+        "name": "äååàé",
+        "state": "HI",
+        "total": "428,937",
+        "cand1": "Clinton",
+        "vote1": "266,891",
+        "cand2": "Trump",
+        "vote2": "128,847",
+        "cand3": "Other",
+        "vote3": "33,199"
+    },
+    {
+        "id": "US-GA",
+        "name": "â'åøâ'éä",
+        "state": "GA",
+        "total": "4,092,373",
+        "cand1": "Trump",
+        "vote1": "2,089,104",
+        "cand2": "Clinton",
+        "vote2": "1,877,963",
+        "cand3": "Other",
+        "vote3": "125,306"
+    },
+    {
+        "id": "US-FL",
+        "name": "ôìåøéãä",
+        "state": "FL",
+        "total": "9,419,886",
+        "cand1": "Trump",
+        "vote1": "4,617,886",
+        "cand2": "Clinton",
+        "vote2": "4,504,975",
+        "cand3": "Other",
+        "vote3": "297,025"
+    },
+    {
+        "id": "US-DE",
+        "name": "ãìàååø",
+        "state": "DE",
+        "total": "441,590",
+        "cand1": "Clinton",
+        "vote1": "235,603",
+        "cand2": "Trump",
+        "vote2": "185,127",
+        "cand3": "Other",
+        "vote3": "20,860"
+    },
+    {
+        "id": "US-DC",
+        "name": "ååùéðâèåï ãé ñé",
+        "state": "DC",
+        "total": "304,717",
+        "cand1": "Clinton",
+        "vote1": "282,830",
+        "cand2": "Trump",
+        "vote2": "12,723",
+        "cand3": "Other",
+        "vote3": "9,164"
+    },
+    {
+        "id": "US-CT",
+        "name": "÷åðèé÷è",
+        "state": "CT",
+        "total": "1,642,304",
+        "cand1": "Clinton",
+        "vote1": "897,572",
+        "cand2": "Trump",
+        "vote2": "673,215",
+        "cand3": "Other",
+        "vote3": "71,517"
+    },
+    {
+        "id": "US-CO",
+        "name": "÷åìåøãå",
+        "state": "CO",
+        "total": "2,780,220",
+        "cand1": "Clinton",
+        "vote1": "1,338,870",
+        "cand2": "Trump",
+        "vote2": "1,202,484",
+        "cand3": "Other",
+        "vote3": "238,866"
+    },
+    {
+        "id": "US-CA",
+        "name": "÷ìéôåøðéä",
+        "state": "CA",
+        "total": "14,060,856",
+        "cand1": "Clinton",
+        "vote1": "8,753,788",
+        "cand2": "Trump",
+        "vote2": "4,483,810",
+        "cand3": "Other",
+        "vote3": "823,258"
+    },
+    {
+        "id": "US-AZ",
+        "name": "àøéæåðä",
+        "state": "AZ",
+        "total": "2,554,240",
+        "cand1": "Trump",
+        "vote1": "1,252,401",
+        "cand2": "Clinton",
+        "vote2": "1,161,167",
+        "cand3": "Other",
+        "vote3": "140,672"
+    },
+    {
+        "id": "US-AR",
+        "name": "àø÷ðñå",
+        "state": "AR",
+        "total": "1,130,635",
+        "cand1": "Trump",
+        "vote1": "684,872",
+        "cand2": "Clinton",
+        "vote2": "380,494",
+        "cand3": "Other",
+        "vote3": "65,269"
+    },
+    {
+        "id": "US-AL",
+        "name": "àìáîä",
+        "state": "AL",
+        "total": "2,101,660",
+        "cand1": "Trump",
+        "vote1": "1,318,255",
+        "cand2": "Clinton",
+        "vote2": "729,547",
+        "cand3": "Other",
+        "vote3": "53,858"
+    },
+    {
+        "id": "US-AK",
+        "name": "àìñ÷ä",
+        "state": "AK",
+        "total": "309,407",
+        "cand1": "Trump",
+        "vote1": "163,387",
+        "cand2": "Clinton",
+        "vote2": "116,454",
+        "cand3": "Other",
+        "vote3": "29,566"
+    }
 ]
