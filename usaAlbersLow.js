@@ -5375,13 +5375,6 @@ am4internal_webpackJsonp(["b339"], {
                         ]
                     ]
                 },
-                properties: {
-                    name: "Alaska",
-                    id: "US-AK",
-                    CNTRY: "United States of America",
-                    TYPE: "State"
-                },
-                id: "US-AK"
             }]
         }
     }
