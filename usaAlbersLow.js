@@ -4,7 +4,7 @@ am4internal_webpackJsonp(["4f3f"], {
         Object.defineProperty(t, "__esModule", {
             value: !0
         });
-        window.am4geodata_usaLow = {
+        window.am4geodata_usaAlbersLow = {
             type: "FeatureCollection",
             features: [{
                 type: "Feature",
