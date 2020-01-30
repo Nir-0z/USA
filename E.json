@@ -1,2160 +1,243 @@
 {
-  "CA": {
+  "CT": {
     "dem": {
       "meta": {
         "party": "dem",
-        "statePostal": "CA",
-        "stateName": "California",
-        "lastUpdated": "2016-06-08T17:16:59Z"
+        "statePostal": "CT",
+        "stateName": "Connecticut",
+        "lastUpdated": "2016-04-27T20:16:36Z"
       },
       "data": {
         "0": {
-          "county": "California",
-          "precinctsReporting": 22359,
-          "totalPrecincts": 22359,
-          "totalVotes": 3475720,
+          "county": "Connecticut",
+          "precinctsReporting": 700,
+          "totalPrecincts": 701,
+          "totalVotes": 328322,
           "Cand": [
             {
               "name": "Clinton",
-              "votes": 1940580,
+              "votes": 170075,
               "winner": "X",
-              "votePct": 55.83
+              "votePct": 51.8
             },
             {
               "name": "Sanders",
-              "votes": 1502043,
+              "votes": 152410,
               "winner": "",
-              "votePct": 43.22
+              "votePct": 46.42
             },
             {
-              "name": "Wilson",
-              "votes": 8709,
+              "name": "Uncommitted",
+              "votes": 4877,
               "winner": "",
-              "votePct": 0.25
+              "votePct": 1.49
             },
             {
-              "name": "Steinberg",
-              "votes": 7905,
+              "name": "De La Fuente",
+              "votes": 960,
               "winner": "",
-              "votePct": 0.23
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 5780,
-              "winner": "",
-              "votePct": 0.17
-            },
-            {
-              "name": "Judd",
-              "votes": 5433,
-              "winner": "",
-              "votePct": 0.16
-            },
-            {
-              "name": "Hewes",
-              "votes": 5270,
-              "winner": "",
-              "votePct": 0.15
+              "votePct": 0.29
             }
           ]
         },
-        "6001": {
-          "county": "06001",
-          "precinctsReporting": 1118,
-          "totalPrecincts": 1118,
-          "totalVotes": 199521,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 107102
-            },
-            {
-              "name": "Sanders",
-              "votes": 91324
-            },
-            {
-              "name": "Wilson",
-              "votes": 321
-            },
-            {
-              "name": "Steinberg",
-              "votes": 233
-            },
-            {
-              "name": "Hewes",
-              "votes": 223
-            },
-            {
-              "name": "Judd",
-              "votes": 160
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 158
-            }
-          ]
-        },
-        "6003": {
-          "county": "06003",
-          "precinctsReporting": 5,
-          "totalPrecincts": 5,
-          "totalVotes": 241,
+        "9013": {
+          "county": "09013",
+          "precinctsReporting": 27,
+          "totalPrecincts": 27,
+          "totalVotes": 14594,
           "Cand": [
             {
               "name": "Sanders",
-              "votes": 129
+              "votes": 8734
             },
             {
               "name": "Clinton",
-              "votes": 110
+              "votes": 5620
             },
             {
-              "name": "Hewes",
-              "votes": 1
-            },
-            {
-              "name": "Wilson",
-              "votes": 1
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 0
-            },
-            {
-              "name": "Steinberg",
-              "votes": 0
-            },
-            {
-              "name": "Judd",
-              "votes": 0
-            }
-          ]
-        },
-        "6005": {
-          "county": "06005",
-          "precinctsReporting": 29,
-          "totalPrecincts": 29,
-          "totalVotes": 3769,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 1949
-            },
-            {
-              "name": "Sanders",
-              "votes": 1753
-            },
-            {
-              "name": "Wilson",
-              "votes": 23
-            },
-            {
-              "name": "Steinberg",
-              "votes": 19
-            },
-            {
-              "name": "Judd",
-              "votes": 13
-            },
-            {
-              "name": "Hewes",
-              "votes": 7
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 5
-            }
-          ]
-        },
-        "6007": {
-          "county": "06007",
-          "precinctsReporting": 140,
-          "totalPrecincts": 140,
-          "totalVotes": 24218,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 14271
-            },
-            {
-              "name": "Clinton",
-              "votes": 9681
-            },
-            {
-              "name": "Wilson",
-              "votes": 81
-            },
-            {
-              "name": "Steinberg",
-              "votes": 75
-            },
-            {
-              "name": "Judd",
-              "votes": 50
-            },
-            {
-              "name": "Hewes",
-              "votes": 31
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 29
-            }
-          ]
-        },
-        "6009": {
-          "county": "06009",
-          "precinctsReporting": 29,
-          "totalPrecincts": 29,
-          "totalVotes": 5125,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 2630
-            },
-            {
-              "name": "Sanders",
-              "votes": 2392
-            },
-            {
-              "name": "Wilson",
-              "votes": 50
-            },
-            {
-              "name": "Steinberg",
-              "votes": 22
-            },
-            {
-              "name": "Judd",
-              "votes": 14
-            },
-            {
-              "name": "Hewes",
-              "votes": 9
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 8
-            }
-          ]
-        },
-        "6011": {
-          "county": "06011",
-          "precinctsReporting": 18,
-          "totalPrecincts": 18,
-          "totalVotes": 1276,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 653
-            },
-            {
-              "name": "Sanders",
-              "votes": 584
-            },
-            {
-              "name": "Steinberg",
-              "votes": 16
-            },
-            {
-              "name": "Wilson",
-              "votes": 6
-            },
-            {
-              "name": "Hewes",
-              "votes": 6
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 6
-            },
-            {
-              "name": "Judd",
-              "votes": 5
-            }
-          ]
-        },
-        "6013": {
-          "county": "06013",
-          "precinctsReporting": 656,
-          "totalPrecincts": 656,
-          "totalVotes": 117501,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 69809
-            },
-            {
-              "name": "Sanders",
-              "votes": 46909
-            },
-            {
-              "name": "Wilson",
-              "votes": 211
-            },
-            {
-              "name": "Steinberg",
+              "name": "Uncommitted",
               "votes": 206
             },
             {
-              "name": "Judd",
-              "votes": 141
-            },
-            {
-              "name": "Hewes",
-              "votes": 124
-            },
-            {
               "name": "De La Fuente",
-              "votes": 101
+              "votes": 34
             }
           ]
         },
-        "6015": {
-          "county": "06015",
-          "precinctsReporting": 18,
-          "totalPrecincts": 18,
-          "totalVotes": 2388,
+        "9009": {
+          "county": "09009",
+          "precinctsReporting": 191,
+          "totalPrecincts": 191,
+          "totalVotes": 78333,
           "Cand": [
             {
-              "name": "Sanders",
-              "votes": 1323
-            },
-            {
               "name": "Clinton",
-              "votes": 1015
+              "votes": 40628
             },
             {
-              "name": "Steinberg",
-              "votes": 24
+              "name": "Sanders",
+              "votes": 36275
             },
             {
-              "name": "Judd",
-              "votes": 10
-            },
-            {
-              "name": "Wilson",
-              "votes": 9
+              "name": "Uncommitted",
+              "votes": 1177
             },
             {
               "name": "De La Fuente",
-              "votes": 4
-            },
-            {
-              "name": "Hewes",
-              "votes": 3
+              "votes": 253
             }
           ]
         },
-        "6017": {
-          "county": "06017",
-          "precinctsReporting": 102,
-          "totalPrecincts": 102,
-          "totalVotes": 20132,
+        "9015": {
+          "county": "09015",
+          "precinctsReporting": 28,
+          "totalPrecincts": 28,
+          "totalVotes": 8994,
           "Cand": [
             {
-              "name": "Clinton",
-              "votes": 10367
-            },
-            {
               "name": "Sanders",
-              "votes": 9497
+              "votes": 5359
             },
             {
-              "name": "Wilson",
-              "votes": 114
+              "name": "Clinton",
+              "votes": 3396
             },
             {
-              "name": "Steinberg",
-              "votes": 63
-            },
-            {
-              "name": "Judd",
-              "votes": 42
+              "name": "Uncommitted",
+              "votes": 207
             },
             {
               "name": "De La Fuente",
-              "votes": 26
-            },
-            {
-              "name": "Hewes",
-              "votes": 23
-            }
-          ]
-        },
-        "6019": {
-          "county": "06019",
-          "precinctsReporting": 510,
-          "totalPrecincts": 510,
-          "totalVotes": 55332,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 32895
-            },
-            {
-              "name": "Sanders",
-              "votes": 21672
-            },
-            {
-              "name": "Steinberg",
-              "votes": 224
-            },
-            {
-              "name": "Wilson",
-              "votes": 164
-            },
-            {
-              "name": "Judd",
-              "votes": 151
-            },
-            {
-              "name": "Hewes",
-              "votes": 116
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 110
-            }
-          ]
-        },
-        "6021": {
-          "county": "06021",
-          "precinctsReporting": 34,
-          "totalPrecincts": 34,
-          "totalVotes": 1321,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 649
-            },
-            {
-              "name": "Sanders",
-              "votes": 644
-            },
-            {
-              "name": "Wilson",
-              "votes": 12
-            },
-            {
-              "name": "Steinberg",
-              "votes": 8
-            },
-            {
-              "name": "Hewes",
-              "votes": 4
-            },
-            {
-              "name": "Judd",
-              "votes": 3
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 1
-            }
-          ]
-        },
-        "6023": {
-          "county": "06023",
-          "precinctsReporting": 121,
-          "totalPrecincts": 121,
-          "totalVotes": 19469,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 13245
-            },
-            {
-              "name": "Clinton",
-              "votes": 6036
-            },
-            {
-              "name": "Wilson",
-              "votes": 58
-            },
-            {
-              "name": "Steinberg",
-              "votes": 56
-            },
-            {
-              "name": "Judd",
-              "votes": 40
-            },
-            {
-              "name": "Hewes",
-              "votes": 24
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 10
-            }
-          ]
-        },
-        "6025": {
-          "county": "06025",
-          "precinctsReporting": 169,
-          "totalPrecincts": 169,
-          "totalVotes": 8598,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 5743
-            },
-            {
-              "name": "Sanders",
-              "votes": 2731
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 48
-            },
-            {
-              "name": "Hewes",
-              "votes": 24
-            },
-            {
-              "name": "Wilson",
-              "votes": 21
-            },
-            {
-              "name": "Steinberg",
-              "votes": 18
-            },
-            {
-              "name": "Judd",
-              "votes": 13
-            }
-          ]
-        },
-        "6027": {
-          "county": "06027",
-          "precinctsReporting": 21,
-          "totalPrecincts": 21,
-          "totalVotes": 1751,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 957
-            },
-            {
-              "name": "Clinton",
-              "votes": 756
-            },
-            {
-              "name": "Wilson",
-              "votes": 17
-            },
-            {
-              "name": "Steinberg",
-              "votes": 6
-            },
-            {
-              "name": "Hewes",
-              "votes": 5
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 5
-            },
-            {
-              "name": "Judd",
-              "votes": 5
-            }
-          ]
-        },
-        "6029": {
-          "county": "06029",
-          "precinctsReporting": 500,
-          "totalPrecincts": 500,
-          "totalVotes": 33319,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 19104
-            },
-            {
-              "name": "Sanders",
-              "votes": 13475
-            },
-            {
-              "name": "Wilson",
-              "votes": 221
-            },
-            {
-              "name": "Judd",
-              "votes": 154
-            },
-            {
-              "name": "Steinberg",
-              "votes": 138
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 129
-            },
-            {
-              "name": "Hewes",
-              "votes": 98
-            }
-          ]
-        },
-        "6031": {
-          "county": "06031",
-          "precinctsReporting": 182,
-          "totalPrecincts": 182,
-          "totalVotes": 6623,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 3921
-            },
-            {
-              "name": "Sanders",
-              "votes": 2548
-            },
-            {
-              "name": "Wilson",
-              "votes": 55
-            },
-            {
-              "name": "Steinberg",
               "votes": 32
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 31
-            },
-            {
-              "name": "Hewes",
-              "votes": 19
-            },
-            {
-              "name": "Judd",
-              "votes": 17
             }
           ]
         },
-        "6033": {
-          "county": "06033",
-          "precinctsReporting": 70,
-          "totalPrecincts": 70,
-          "totalVotes": 5195,
+        "9003": {
+          "county": "09003",
+          "precinctsReporting": 165,
+          "totalPrecincts": 165,
+          "totalVotes": 90283,
           "Cand": [
             {
-              "name": "Sanders",
-              "votes": 2704
-            },
-            {
               "name": "Clinton",
-              "votes": 2408
+              "votes": 48096
             },
             {
-              "name": "Wilson",
-              "votes": 38
+              "name": "Sanders",
+              "votes": 40445
             },
             {
-              "name": "Judd",
-              "votes": 17
-            },
-            {
-              "name": "Steinberg",
-              "votes": 15
-            },
-            {
-              "name": "Hewes",
-              "votes": 7
+              "name": "Uncommitted",
+              "votes": 1450
             },
             {
               "name": "De La Fuente",
-              "votes": 6
+              "votes": 292
             }
           ]
         },
-        "6035": {
-          "county": "06035",
-          "precinctsReporting": 51,
-          "totalPrecincts": 51,
-          "totalVotes": 1516,
+        "9005": {
+          "county": "09005",
+          "precinctsReporting": 50,
+          "totalPrecincts": 50,
+          "totalVotes": 16003,
           "Cand": [
             {
               "name": "Sanders",
-              "votes": 770
+              "votes": 9029
             },
             {
               "name": "Clinton",
-              "votes": 690
+              "votes": 6653
             },
             {
-              "name": "Wilson",
-              "votes": 19
-            },
-            {
-              "name": "Judd",
-              "votes": 13
-            },
-            {
-              "name": "Hewes",
-              "votes": 9
-            },
-            {
-              "name": "Steinberg",
-              "votes": 9
+              "name": "Uncommitted",
+              "votes": 287
             },
             {
               "name": "De La Fuente",
-              "votes": 6
+              "votes": 34
             }
           ]
         },
-        "6037": {
-          "county": "06037",
-          "precinctsReporting": 4698,
-          "totalPrecincts": 4698,
-          "totalVotes": 1035876,
+        "9001": {
+          "county": "09001",
+          "precinctsReporting": 149,
+          "totalPrecincts": 150,
+          "totalVotes": 77342,
           "Cand": [
             {
               "name": "Clinton",
-              "votes": 590502
+              "votes": 46649
             },
             {
               "name": "Sanders",
-              "votes": 434656
+              "votes": 29595
             },
             {
-              "name": "Wilson",
-              "votes": 2437
-            },
-            {
-              "name": "Steinberg",
-              "votes": 2321
+              "name": "Uncommitted",
+              "votes": 903
             },
             {
               "name": "De La Fuente",
-              "votes": 2279
-            },
-            {
-              "name": "Hewes",
-              "votes": 1902
-            },
-            {
-              "name": "Judd",
-              "votes": 1779
+              "votes": 195
             }
           ]
         },
-        "6039": {
-          "county": "06039",
-          "precinctsReporting": 77,
-          "totalPrecincts": 77,
-          "totalVotes": 8695,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 4831
-            },
-            {
-              "name": "Sanders",
-              "votes": 3626
-            },
-            {
-              "name": "Wilson",
-              "votes": 86
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 47
-            },
-            {
-              "name": "Judd",
-              "votes": 46
-            },
-            {
-              "name": "Steinberg",
-              "votes": 39
-            },
-            {
-              "name": "Hewes",
-              "votes": 20
-            }
-          ]
-        },
-        "6041": {
-          "county": "06041",
-          "precinctsReporting": 176,
-          "totalPrecincts": 176,
-          "totalVotes": 47262,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 27238
-            },
-            {
-              "name": "Sanders",
-              "votes": 19848
-            },
-            {
-              "name": "Steinberg",
-              "votes": 57
-            },
-            {
-              "name": "Wilson",
-              "votes": 46
-            },
-            {
-              "name": "Judd",
-              "votes": 28
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 24
-            },
-            {
-              "name": "Hewes",
-              "votes": 21
-            }
-          ]
-        },
-        "6043": {
-          "county": "06043",
-          "precinctsReporting": 25,
-          "totalPrecincts": 25,
-          "totalVotes": 2051,
+        "9011": {
+          "county": "09011",
+          "precinctsReporting": 56,
+          "totalPrecincts": 56,
+          "totalVotes": 24098,
           "Cand": [
             {
               "name": "Sanders",
-              "votes": 1050
+              "votes": 13135
             },
             {
               "name": "Clinton",
-              "votes": 963
+              "votes": 10516
             },
             {
-              "name": "Wilson",
-              "votes": 17
-            },
-            {
-              "name": "Steinberg",
-              "votes": 7
-            },
-            {
-              "name": "Judd",
-              "votes": 7
-            },
-            {
-              "name": "Hewes",
-              "votes": 4
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 3
-            }
-          ]
-        },
-        "6045": {
-          "county": "06045",
-          "precinctsReporting": 250,
-          "totalPrecincts": 250,
-          "totalVotes": 7398,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 4654
-            },
-            {
-              "name": "Clinton",
-              "votes": 2690
-            },
-            {
-              "name": "Wilson",
-              "votes": 24
-            },
-            {
-              "name": "Steinberg",
-              "votes": 13
-            },
-            {
-              "name": "Judd",
-              "votes": 7
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 6
-            },
-            {
-              "name": "Hewes",
-              "votes": 4
-            }
-          ]
-        },
-        "6047": {
-          "county": "06047",
-          "precinctsReporting": 266,
-          "totalPrecincts": 266,
-          "totalVotes": 12580,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 7169
-            },
-            {
-              "name": "Sanders",
-              "votes": 5190
-            },
-            {
-              "name": "Steinberg",
-              "votes": 63
-            },
-            {
-              "name": "Wilson",
-              "votes": 53
-            },
-            {
-              "name": "Hewes",
-              "votes": 43
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 33
-            },
-            {
-              "name": "Judd",
-              "votes": 29
-            }
-          ]
-        },
-        "6049": {
-          "county": "06049",
-          "precinctsReporting": 21,
-          "totalPrecincts": 21,
-          "totalVotes": 552,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 280
-            },
-            {
-              "name": "Clinton",
-              "votes": 240
-            },
-            {
-              "name": "Steinberg",
-              "votes": 11
-            },
-            {
-              "name": "Wilson",
-              "votes": 7
-            },
-            {
-              "name": "Hewes",
-              "votes": 7
-            },
-            {
-              "name": "Judd",
-              "votes": 5
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 2
-            }
-          ]
-        },
-        "6051": {
-          "county": "06051",
-          "precinctsReporting": 12,
-          "totalPrecincts": 12,
-          "totalVotes": 1681,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 917
-            },
-            {
-              "name": "Clinton",
-              "votes": 755
-            },
-            {
-              "name": "Wilson",
-              "votes": 5
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 2
-            },
-            {
-              "name": "Hewes",
-              "votes": 1
-            },
-            {
-              "name": "Steinberg",
-              "votes": 1
-            },
-            {
-              "name": "Judd",
-              "votes": 0
-            }
-          ]
-        },
-        "6053": {
-          "county": "06053",
-          "precinctsReporting": 192,
-          "totalPrecincts": 192,
-          "totalVotes": 30306,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 17126
-            },
-            {
-              "name": "Sanders",
-              "votes": 12894
-            },
-            {
-              "name": "Steinberg",
-              "votes": 63
-            },
-            {
-              "name": "Hewes",
-              "votes": 61
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 59
-            },
-            {
-              "name": "Wilson",
-              "votes": 53
-            },
-            {
-              "name": "Judd",
-              "votes": 50
-            }
-          ]
-        },
-        "6055": {
-          "county": "06055",
-          "precinctsReporting": 170,
-          "totalPrecincts": 170,
-          "totalVotes": 12248,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 7370
-            },
-            {
-              "name": "Sanders",
-              "votes": 4781
-            },
-            {
-              "name": "Wilson",
-              "votes": 35
-            },
-            {
-              "name": "Judd",
-              "votes": 23
-            },
-            {
-              "name": "Steinberg",
-              "votes": 20
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 10
-            },
-            {
-              "name": "Hewes",
-              "votes": 9
-            }
-          ]
-        },
-        "6057": {
-          "county": "06057",
-          "precinctsReporting": 80,
-          "totalPrecincts": 80,
-          "totalVotes": 14165,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 8472
-            },
-            {
-              "name": "Clinton",
-              "votes": 5591
-            },
-            {
-              "name": "Steinberg",
-              "votes": 24
-            },
-            {
-              "name": "Wilson",
-              "votes": 24
-            },
-            {
-              "name": "Hewes",
-              "votes": 22
-            },
-            {
-              "name": "Judd",
-              "votes": 21
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 11
-            }
-          ]
-        },
-        "6059": {
-          "county": "06059",
-          "precinctsReporting": 1597,
-          "totalPrecincts": 1597,
-          "totalVotes": 226639,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 123723
-            },
-            {
-              "name": "Sanders",
-              "votes": 100836
-            },
-            {
-              "name": "Wilson",
-              "votes": 539
-            },
-            {
-              "name": "Steinberg",
-              "votes": 531
-            },
-            {
-              "name": "Judd",
+              "name": "Uncommitted",
               "votes": 376
             },
             {
-              "name": "Hewes",
-              "votes": 321
-            },
-            {
               "name": "De La Fuente",
-              "votes": 313
+              "votes": 71
             }
           ]
         },
-        "6061": {
-          "county": "06061",
-          "precinctsReporting": 316,
-          "totalPrecincts": 316,
-          "totalVotes": 30418,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 17299
-            },
-            {
-              "name": "Sanders",
-              "votes": 12787
-            },
-            {
-              "name": "Wilson",
-              "votes": 97
-            },
-            {
-              "name": "Steinberg",
-              "votes": 81
-            },
-            {
-              "name": "Judd",
-              "votes": 58
-            },
-            {
-              "name": "Hewes",
-              "votes": 55
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 41
-            }
-          ]
-        },
-        "6063": {
-          "county": "06063",
-          "precinctsReporting": 29,
-          "totalPrecincts": 29,
-          "totalVotes": 2748,
+        "9007": {
+          "county": "09007",
+          "precinctsReporting": 34,
+          "totalPrecincts": 34,
+          "totalVotes": 18675,
           "Cand": [
             {
               "name": "Sanders",
-              "votes": 1476
+              "votes": 9838
             },
             {
               "name": "Clinton",
-              "votes": 1209
+              "votes": 8517
             },
             {
-              "name": "Wilson",
-              "votes": 19
-            },
-            {
-              "name": "Steinberg",
-              "votes": 15
-            },
-            {
-              "name": "Judd",
-              "votes": 12
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 9
-            },
-            {
-              "name": "Hewes",
-              "votes": 8
-            }
-          ]
-        },
-        "6065": {
-          "county": "06065",
-          "precinctsReporting": 869,
-          "totalPrecincts": 869,
-          "totalVotes": 123142,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 73724
-            },
-            {
-              "name": "Sanders",
-              "votes": 47988
-            },
-            {
-              "name": "Wilson",
-              "votes": 435
-            },
-            {
-              "name": "Steinberg",
-              "votes": 319
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 255
-            },
-            {
-              "name": "Judd",
-              "votes": 216
-            },
-            {
-              "name": "Hewes",
-              "votes": 205
-            }
-          ]
-        },
-        "6067": {
-          "county": "06067",
-          "precinctsReporting": 1172,
-          "totalPrecincts": 1172,
-          "totalVotes": 120040,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 68248
-            },
-            {
-              "name": "Sanders",
-              "votes": 50567
-            },
-            {
-              "name": "Steinberg",
-              "votes": 483
-            },
-            {
-              "name": "Wilson",
-              "votes": 253
-            },
-            {
-              "name": "Judd",
-              "votes": 200
-            },
-            {
-              "name": "Hewes",
-              "votes": 164
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 125
-            }
-          ]
-        },
-        "6069": {
-          "county": "06069",
-          "precinctsReporting": 39,
-          "totalPrecincts": 39,
-          "totalVotes": 3507,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 2022
-            },
-            {
-              "name": "Sanders",
-              "votes": 1439
-            },
-            {
-              "name": "Wilson",
-              "votes": 14
-            },
-            {
-              "name": "Steinberg",
-              "votes": 13
-            },
-            {
-              "name": "Judd",
-              "votes": 10
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 6
-            },
-            {
-              "name": "Hewes",
-              "votes": 3
-            }
-          ]
-        },
-        "6071": {
-          "county": "06071",
-          "precinctsReporting": 1772,
-          "totalPrecincts": 1772,
-          "totalVotes": 124643,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 71246
-            },
-            {
-              "name": "Sanders",
-              "votes": 51770
-            },
-            {
-              "name": "Wilson",
-              "votes": 526
-            },
-            {
-              "name": "Steinberg",
-              "votes": 414
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 323
-            },
-            {
-              "name": "Judd",
-              "votes": 182
-            },
-            {
-              "name": "Hewes",
-              "votes": 182
-            }
-          ]
-        },
-        "6073": {
-          "county": "06073",
-          "precinctsReporting": 1726,
-          "totalPrecincts": 1726,
-          "totalVotes": 253603,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 139813
-            },
-            {
-              "name": "Sanders",
-              "votes": 111898
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 497
-            },
-            {
-              "name": "Wilson",
-              "votes": 476
-            },
-            {
-              "name": "Steinberg",
-              "votes": 359
-            },
-            {
-              "name": "Hewes",
-              "votes": 289
-            },
-            {
-              "name": "Judd",
+              "name": "Uncommitted",
               "votes": 271
-            }
-          ]
-        },
-        "6075": {
-          "county": "06075",
-          "precinctsReporting": 597,
-          "totalPrecincts": 597,
-          "totalVotes": 153018,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 85070
-            },
-            {
-              "name": "Sanders",
-              "votes": 67191
-            },
-            {
-              "name": "Wilson",
-              "votes": 227
-            },
-            {
-              "name": "Steinberg",
-              "votes": 178
-            },
-            {
-              "name": "Hewes",
-              "votes": 150
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 146
-            },
-            {
-              "name": "Judd",
-              "votes": 56
-            }
-          ]
-        },
-        "6077": {
-          "county": "06077",
-          "precinctsReporting": 426,
-          "totalPrecincts": 426,
-          "totalVotes": 42036,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 25118
-            },
-            {
-              "name": "Sanders",
-              "votes": 16329
-            },
-            {
-              "name": "Wilson",
-              "votes": 164
-            },
-            {
-              "name": "Steinberg",
-              "votes": 159
-            },
-            {
-              "name": "Judd",
-              "votes": 95
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 86
-            },
-            {
-              "name": "Hewes",
-              "votes": 85
-            }
-          ]
-        },
-        "6079": {
-          "county": "06079",
-          "precinctsReporting": 143,
-          "totalPrecincts": 143,
-          "totalVotes": 33245,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 16833
-            },
-            {
-              "name": "Sanders",
-              "votes": 16147
-            },
-            {
-              "name": "Wilson",
-              "votes": 94
-            },
-            {
-              "name": "Judd",
-              "votes": 58
-            },
-            {
-              "name": "Steinberg",
-              "votes": 47
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 35
-            },
-            {
-              "name": "Hewes",
-              "votes": 31
-            }
-          ]
-        },
-        "6081": {
-          "county": "06081",
-          "precinctsReporting": 468,
-          "totalPrecincts": 468,
-          "totalVotes": 77809,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 47358
-            },
-            {
-              "name": "Sanders",
-              "votes": 30003
-            },
-            {
-              "name": "Steinberg",
-              "votes": 123
-            },
-            {
-              "name": "Wilson",
-              "votes": 100
-            },
-            {
-              "name": "Judd",
-              "votes": 83
-            },
-            {
-              "name": "Hewes",
-              "votes": 76
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 66
-            }
-          ]
-        },
-        "6083": {
-          "county": "06083",
-          "precinctsReporting": 203,
-          "totalPrecincts": 203,
-          "totalVotes": 46890,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 23543
-            },
-            {
-              "name": "Sanders",
-              "votes": 22976
-            },
-            {
-              "name": "Wilson",
-              "votes": 100
-            },
-            {
-              "name": "Judd",
-              "votes": 78
-            },
-            {
-              "name": "Steinberg",
-              "votes": 70
-            },
-            {
-              "name": "Hewes",
-              "votes": 63
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 60
-            }
-          ]
-        },
-        "6085": {
-          "county": "06085",
-          "precinctsReporting": 932,
-          "totalPrecincts": 932,
-          "totalVotes": 181744,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 109963
-            },
-            {
-              "name": "Sanders",
-              "votes": 70468
-            },
-            {
-              "name": "Wilson",
-              "votes": 357
-            },
-            {
-              "name": "Steinberg",
-              "votes": 319
-            },
-            {
-              "name": "Hewes",
-              "votes": 253
-            },
-            {
-              "name": "Judd",
-              "votes": 192
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 192
-            }
-          ]
-        },
-        "6087": {
-          "county": "06087",
-          "precinctsReporting": 186,
-          "totalPrecincts": 186,
-          "totalVotes": 45535,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 25171
-            },
-            {
-              "name": "Clinton",
-              "votes": 20105
-            },
-            {
-              "name": "Wilson",
-              "votes": 84
-            },
-            {
-              "name": "Steinberg",
-              "votes": 51
-            },
-            {
-              "name": "Judd",
-              "votes": 49
-            },
-            {
-              "name": "Hewes",
-              "votes": 42
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 33
-            }
-          ]
-        },
-        "6089": {
-          "county": "06089",
-          "precinctsReporting": 121,
-          "totalPrecincts": 121,
-          "totalVotes": 12285,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 6140
-            },
-            {
-              "name": "Clinton",
-              "votes": 5875
-            },
-            {
-              "name": "Wilson",
-              "votes": 85
-            },
-            {
-              "name": "Judd",
-              "votes": 64
-            },
-            {
-              "name": "Hewes",
-              "votes": 50
-            },
-            {
-              "name": "Steinberg",
-              "votes": 50
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 21
-            }
-          ]
-        },
-        "6091": {
-          "county": "06091",
-          "precinctsReporting": 22,
-          "totalPrecincts": 22,
-          "totalVotes": 493,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 275
-            },
-            {
-              "name": "Clinton",
-              "votes": 213
-            },
-            {
-              "name": "Hewes",
-              "votes": 2
-            },
-            {
-              "name": "Wilson",
-              "votes": 2
-            },
-            {
-              "name": "Judd",
-              "votes": 1
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 0
-            },
-            {
-              "name": "Steinberg",
-              "votes": 0
-            }
-          ]
-        },
-        "6093": {
-          "county": "06093",
-          "precinctsReporting": 58,
-          "totalPrecincts": 58,
-          "totalVotes": 3967,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 2301
-            },
-            {
-              "name": "Clinton",
-              "votes": 1585
-            },
-            {
-              "name": "Wilson",
-              "votes": 27
-            },
-            {
-              "name": "Steinberg",
-              "votes": 20
-            },
-            {
-              "name": "Judd",
-              "votes": 19
-            },
-            {
-              "name": "Hewes",
-              "votes": 11
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 4
-            }
-          ]
-        },
-        "6095": {
-          "county": "06095",
-          "precinctsReporting": 165,
-          "totalPrecincts": 165,
-          "totalVotes": 55887,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 31753
-            },
-            {
-              "name": "Sanders",
-              "votes": 23630
-            },
-            {
-              "name": "Wilson",
-              "votes": 141
-            },
-            {
-              "name": "Steinberg",
-              "votes": 135
-            },
-            {
-              "name": "Hewes",
-              "votes": 96
-            },
-            {
-              "name": "Judd",
-              "votes": 83
             },
             {
               "name": "De La Fuente",
               "votes": 49
-            }
-          ]
-        },
-        "6097": {
-          "county": "06097",
-          "precinctsReporting": 361,
-          "totalPrecincts": 361,
-          "totalVotes": 88274,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 44923
-            },
-            {
-              "name": "Sanders",
-              "votes": 42715
-            },
-            {
-              "name": "Steinberg",
-              "votes": 186
-            },
-            {
-              "name": "Wilson",
-              "votes": 184
-            },
-            {
-              "name": "Judd",
-              "votes": 138
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 68
-            },
-            {
-              "name": "Hewes",
-              "votes": 60
-            }
-          ]
-        },
-        "6099": {
-          "county": "06099",
-          "precinctsReporting": 341,
-          "totalPrecincts": 341,
-          "totalVotes": 27891,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 15309
-            },
-            {
-              "name": "Sanders",
-              "votes": 12086
-            },
-            {
-              "name": "Wilson",
-              "votes": 155
-            },
-            {
-              "name": "Steinberg",
-              "votes": 117
-            },
-            {
-              "name": "Judd",
-              "votes": 82
-            },
-            {
-              "name": "Hewes",
-              "votes": 77
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 65
-            }
-          ]
-        },
-        "6101": {
-          "county": "06101",
-          "precinctsReporting": 49,
-          "totalPrecincts": 49,
-          "totalVotes": 4343,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 2370
-            },
-            {
-              "name": "Sanders",
-              "votes": 1894
-            },
-            {
-              "name": "Steinberg",
-              "votes": 27
-            },
-            {
-              "name": "Hewes",
-              "votes": 16
-            },
-            {
-              "name": "Wilson",
-              "votes": 13
-            },
-            {
-              "name": "Judd",
-              "votes": 12
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 11
-            }
-          ]
-        },
-        "6103": {
-          "county": "06103",
-          "precinctsReporting": 46,
-          "totalPrecincts": 46,
-          "totalVotes": 3116,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 1544
-            },
-            {
-              "name": "Clinton",
-              "votes": 1487
-            },
-            {
-              "name": "Wilson",
-              "votes": 29
-            },
-            {
-              "name": "Steinberg",
-              "votes": 25
-            },
-            {
-              "name": "Judd",
-              "votes": 16
-            },
-            {
-              "name": "Hewes",
-              "votes": 11
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 4
-            }
-          ]
-        },
-        "6105": {
-          "county": "06105",
-          "precinctsReporting": 25,
-          "totalPrecincts": 25,
-          "totalVotes": 1568,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 953
-            },
-            {
-              "name": "Clinton",
-              "votes": 585
-            },
-            {
-              "name": "Wilson",
-              "votes": 12
-            },
-            {
-              "name": "Steinberg",
-              "votes": 7
-            },
-            {
-              "name": "Judd",
-              "votes": 7
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 2
-            },
-            {
-              "name": "Hewes",
-              "votes": 2
-            }
-          ]
-        },
-        "6107": {
-          "county": "06107",
-          "precinctsReporting": 138,
-          "totalPrecincts": 138,
-          "totalVotes": 14427,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 8375
-            },
-            {
-              "name": "Sanders",
-              "votes": 5755
-            },
-            {
-              "name": "Wilson",
-              "votes": 101
-            },
-            {
-              "name": "Steinberg",
-              "votes": 66
-            },
-            {
-              "name": "Judd",
-              "votes": 50
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 47
-            },
-            {
-              "name": "Hewes",
-              "votes": 33
-            }
-          ]
-        },
-        "6109": {
-          "county": "06109",
-          "precinctsReporting": 73,
-          "totalPrecincts": 73,
-          "totalVotes": 5559,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 2851
-            },
-            {
-              "name": "Sanders",
-              "votes": 2623
-            },
-            {
-              "name": "Wilson",
-              "votes": 33
-            },
-            {
-              "name": "Steinberg",
-              "votes": 19
-            },
-            {
-              "name": "Judd",
-              "votes": 15
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 9
-            },
-            {
-              "name": "Hewes",
-              "votes": 9
-            }
-          ]
-        },
-        "6111": {
-          "county": "06111",
-          "precinctsReporting": 568,
-          "totalPrecincts": 568,
-          "totalVotes": 85155,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 45848
-            },
-            {
-              "name": "Sanders",
-              "votes": 38523
-            },
-            {
-              "name": "Steinberg",
-              "votes": 254
-            },
-            {
-              "name": "Wilson",
-              "votes": 170
-            },
-            {
-              "name": "Judd",
-              "votes": 129
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 121
-            },
-            {
-              "name": "Hewes",
-              "votes": 110
-            }
-          ]
-        },
-        "6113": {
-          "county": "06113",
-          "precinctsReporting": 132,
-          "totalPrecincts": 132,
-          "totalVotes": 24242,
-          "Cand": [
-            {
-              "name": "Clinton",
-              "votes": 12567
-            },
-            {
-              "name": "Sanders",
-              "votes": 11532
-            },
-            {
-              "name": "Wilson",
-              "votes": 35
-            },
-            {
-              "name": "Hewes",
-              "votes": 32
-            },
-            {
-              "name": "Steinberg",
-              "votes": 29
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 26
-            },
-            {
-              "name": "Judd",
-              "votes": 21
-            }
-          ]
-        },
-        "6115": {
-          "county": "06115",
-          "precinctsReporting": 45,
-          "totalPrecincts": 45,
-          "totalVotes": 3387,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 1730
-            },
-            {
-              "name": "Clinton",
-              "votes": 1572
-            },
-            {
-              "name": "Wilson",
-              "votes": 29
-            },
-            {
-              "name": "Steinberg",
-              "votes": 25
-            },
-            {
-              "name": "Judd",
-              "votes": 17
-            },
-            {
-              "name": "Hewes",
-              "votes": 7
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 7
             }
           ]
         }
       },
       "delegates": {
-        "Clinton": 269,
-        "Sanders": 206,
-        "Wilson": 0,
-        "Steinberg": 0,
-        "De La Fuente": 0,
-        "Judd": 0,
-        "Hewes": 0
+        "Clinton": 28,
+        "Sanders": 27,
+        "Uncommitted": 0,
+        "De La Fuente": 0
       }
     }
   }
