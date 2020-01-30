@@ -1,51 +1,45 @@
 {
-  "MN": {
+  "KS": {
     "dem": {
       "meta": {
         "party": "dem",
-        "statePostal": "MN",
-        "stateName": "Minnesota",
-        "lastUpdated": "2016-03-02T18:48:20Z"
+        "statePostal": "KS",
+        "stateName": "Kansas",
+        "lastUpdated": "2016-03-06T16:06:11Z"
       },
       "data": {
         "0": {
-          "town": "Minnesota",
-          "precinctsReporting": 3691,
-          "totalPrecincts": 4109,
-          "totalVotes": 191647,
+          "town": "Kansas",
+          "precinctsReporting": 3479,
+          "totalPrecincts": 3479,
+          "totalVotes": 39043,
           "Cand": [
             {
               "name": "Sanders",
-              "votes": 118135,
+              "votes": 26450,
               "winner": "X",
-              "votePct": 61.64
+              "votePct": 67.75
             },
             {
               "name": "Clinton",
-              "votes": 73510,
+              "votes": 12593,
               "winner": "",
-              "votePct": 38.36
+              "votePct": 32.25
             },
             {
-              "name": "De La Fuente",
-              "votes": 1,
-              "winner": "",
-              "votePct": 0
-            },
-            {
-              "name": "Uncommitted",
-              "votes": 1,
-              "winner": "",
-              "votePct": 0
-            },
-            {
-              "name": "Other",
+              "name": "O'Malley",
               "votes": 0,
               "winner": "",
               "votePct": 0
             },
             {
-              "name": "O'Malley",
+              "name": "De La Fuente",
+              "votes": 0,
+              "winner": "",
+              "votePct": 0
+            },
+            {
+              "name": "Uncommitted",
               "votes": 0,
               "winner": "",
               "votePct": 0
@@ -54,21 +48,17 @@
         },
         "1": {
           "town": "Congressional District 1",
-          "precinctsReporting": 676,
-          "totalPrecincts": 696,
-          "totalVotes": 16173,
+          "precinctsReporting": 1332,
+          "totalPrecincts": 1332,
+          "totalVotes": 5907,
           "Cand": [
             {
               "name": "Sanders",
-              "votes": 10722
+              "votes": 4074
             },
             {
               "name": "Clinton",
-              "votes": 5451
-            },
-            {
-              "name": "Other",
-              "votes": 0
+              "votes": 1833
             },
             {
               "name": "O'Malley",
@@ -86,21 +76,17 @@
         },
         "2": {
           "town": "Congressional District 2",
-          "precinctsReporting": 280,
-          "totalPrecincts": 291,
-          "totalVotes": 19654,
+          "precinctsReporting": 912,
+          "totalPrecincts": 912,
+          "totalVotes": 11342,
           "Cand": [
             {
               "name": "Sanders",
-              "votes": 11433
+              "votes": 8117
             },
             {
               "name": "Clinton",
-              "votes": 8221
-            },
-            {
-              "name": "Other",
-              "votes": 0
+              "votes": 3225
             },
             {
               "name": "O'Malley",
@@ -118,21 +104,17 @@
         },
         "3": {
           "town": "Congressional District 3",
-          "precinctsReporting": 238,
-          "totalPrecincts": 246,
-          "totalVotes": 23203,
+          "precinctsReporting": 620,
+          "totalPrecincts": 620,
+          "totalVotes": 12360,
           "Cand": [
             {
               "name": "Sanders",
-              "votes": 12364
+              "votes": 7671
             },
             {
               "name": "Clinton",
-              "votes": 10839
-            },
-            {
-              "name": "Other",
-              "votes": 0
+              "votes": 4689
             },
             {
               "name": "O'Malley",
@@ -150,149 +132,17 @@
         },
         "4": {
           "town": "Congressional District 4",
-          "precinctsReporting": 192,
-          "totalPrecincts": 230,
-          "totalVotes": 29510,
+          "precinctsReporting": 615,
+          "totalPrecincts": 615,
+          "totalVotes": 9434,
           "Cand": [
             {
               "name": "Sanders",
-              "votes": 17164
+              "votes": 6588
             },
             {
               "name": "Clinton",
-              "votes": 12346
-            },
-            {
-              "name": "Other",
-              "votes": 0
-            },
-            {
-              "name": "O'Malley",
-              "votes": 0
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 0
-            },
-            {
-              "name": "Uncommitted",
-              "votes": 0
-            }
-          ]
-        },
-        "5": {
-          "town": "Congressional District 5",
-          "precinctsReporting": 218,
-          "totalPrecincts": 229,
-          "totalVotes": 61445,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 39867
-            },
-            {
-              "name": "Clinton",
-              "votes": 21578
-            },
-            {
-              "name": "Other",
-              "votes": 0
-            },
-            {
-              "name": "O'Malley",
-              "votes": 0
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 0
-            },
-            {
-              "name": "Uncommitted",
-              "votes": 0
-            }
-          ]
-        },
-        "6": {
-          "town": "Congressional District 6",
-          "precinctsReporting": 250,
-          "totalPrecincts": 279,
-          "totalVotes": 12637,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 7881
-            },
-            {
-              "name": "Clinton",
-              "votes": 4756
-            },
-            {
-              "name": "Other",
-              "votes": 0
-            },
-            {
-              "name": "O'Malley",
-              "votes": 0
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 0
-            },
-            {
-              "name": "Uncommitted",
-              "votes": 0
-            }
-          ]
-        },
-        "7": {
-          "town": "Congressional District 7",
-          "precinctsReporting": 1148,
-          "totalPrecincts": 1328,
-          "totalVotes": 10460,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 6608
-            },
-            {
-              "name": "Clinton",
-              "votes": 3852
-            },
-            {
-              "name": "Other",
-              "votes": 0
-            },
-            {
-              "name": "O'Malley",
-              "votes": 0
-            },
-            {
-              "name": "De La Fuente",
-              "votes": 0
-            },
-            {
-              "name": "Uncommitted",
-              "votes": 0
-            }
-          ]
-        },
-        "8": {
-          "town": "Congressional District 8",
-          "precinctsReporting": 686,
-          "totalPrecincts": 810,
-          "totalVotes": 18563,
-          "Cand": [
-            {
-              "name": "Sanders",
-              "votes": 12096
-            },
-            {
-              "name": "Clinton",
-              "votes": 6467
-            },
-            {
-              "name": "Other",
-              "votes": 0
+              "votes": 2846
             },
             {
               "name": "O'Malley",
