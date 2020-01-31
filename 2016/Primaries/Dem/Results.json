@@ -1,7 +1,7 @@
 [
   {
     "id": "US-WY",
-    "state": "WY",
+    "state": "ויומינג",
     "party": "dem",
     "fill": "#aed581",
     "total": 280,
@@ -17,7 +17,7 @@
   },
   {
     "id": "US-WV",
-    "state": "WV",
+    "state": "וירג'יניה המערבית",
     "party": "dem",
     "fill": "#aed581",
     "total": 241016,
@@ -33,7 +33,7 @@
   },
   {
     "id": "US-WI",
-    "state": "WI",
+    "state": "ויסקונסין",
     "party": "dem",
     "fill": "#aed581",
     "total": 1003904,
@@ -49,7 +49,7 @@
   },
   {
     "id": "US-WA",
-    "state": "WA",
+    "state": "וושינגטון",
     "party": "dem",
     "fill": "#aed581",
     "total": 26345,
@@ -65,7 +65,7 @@
   },
   {
     "id": "US-VT",
-    "state": "VT",
+    "state": "ורמונט",
     "party": "dem",
     "fill": "#aed581",
     "total": 134571,
@@ -81,7 +81,7 @@
   },
   {
     "id": "US-VA",
-    "state": "VA",
+    "state": "וירג'יניה",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 782895,
@@ -97,7 +97,7 @@
   },
   {
     "id": "US-UT",
-    "state": "UT",
+    "state": "יוטה",
     "party": "dem",
     "fill": "#aed581",
     "total": 65505,
@@ -113,7 +113,7 @@
   },
   {
     "id": "US-TX",
-    "state": "TX",
+    "state": "טקסס",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 1433908,
@@ -129,7 +129,7 @@
   },
   {
     "id": "US-TN",
-    "state": "TN",
+    "state": "טנסי",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 371082,
@@ -145,7 +145,7 @@
   },
   {
     "id": "US-SD",
-    "state": "SD",
+    "state": "דקוטה הדרומית",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 53004,
@@ -161,7 +161,7 @@
   },
   {
     "id": "US-SC",
-    "state": "SC",
+    "state": "קרוליינה הדרומית",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 369526,
@@ -177,7 +177,7 @@
   },
   {
     "id": "US-RI",
-    "state": "RI",
+    "state": "רוד איילנד",
     "party": "dem",
     "fill": "#aed581",
     "total": 121253,
@@ -193,7 +193,7 @@
   },
   {
     "id": "US-PA",
-    "state": "PA",
+    "state": "פנסילבניה",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 1652947,
@@ -209,7 +209,7 @@
   },
   {
     "id": "US-OR",
-    "state": "OR",
+    "state": "אורגון",
     "party": "dem",
     "fill": "#aed581",
     "total": 572485,
@@ -225,7 +225,7 @@
   },
   {
     "id": "US-OK",
-    "state": "OK",
+    "state": "אוקלהומה",
     "party": "dem",
     "fill": "#aed581",
     "total": 335554,
@@ -241,7 +241,7 @@
   },
   {
     "id": "US-OH",
-    "state": "OH",
+    "state": "אוהיו",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 1202163,
@@ -257,7 +257,7 @@
   },
   {
     "id": "US-NY",
-    "state": "NY",
+    "state": "ניו יורק",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 1817552,
@@ -273,7 +273,7 @@
   },
   {
     "id": "US-NV",
-    "state": "NV",
+    "state": "נבדה",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 12002,
@@ -289,7 +289,7 @@
   },
   {
     "id": "US-NM",
-    "state": "NM",
+    "state": "ניו מקסיקו",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 214307,
@@ -305,7 +305,7 @@
   },
   {
     "id": "US-NJ",
-    "state": "NJ",
+    "state": "ניו ג'רזי",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 877496,
@@ -321,7 +321,7 @@
   },
   {
     "id": "US-NH",
-    "state": "NH",
+    "state": "ניו המפשייר",
     "party": "Dem",
     "fill": "#aed581",
     "total": 250983,
@@ -337,7 +337,7 @@
   },
   {
     "id": "US-NE",
-    "state": "NE",
+    "state": "נברסקה",
     "party": "dem",
     "fill": "#aed581",
     "total": 33460,
@@ -353,7 +353,7 @@
   },
   {
     "id": "US-ND",
-    "state": "ND",
+    "state": "דקוטה הצפונית",
     "party": "dem",
     "fill": "#aed581",
     "total": 394,
@@ -369,7 +369,7 @@
   },
   {
     "id": "US-NC",
-    "state": "NC",
+    "state": "קרוליינה הצפונית",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 1129241,
@@ -385,7 +385,7 @@
   },
   {
     "id": "US-MT",
-    "state": "MT",
+    "state": "מונטנה",
     "party": "dem",
     "fill": "#aed581",
     "total": 123726,
@@ -401,7 +401,7 @@
   },
   {
     "id": "US-MS",
-    "state": "MS",
+    "state": "מיסיסיפי",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 220560,
@@ -417,7 +417,7 @@
   },
   {
     "id": "US-MO",
-    "state": "MO",
+    "state": "מיזורי",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 626077,
@@ -433,7 +433,7 @@
   },
   {
     "id": "US-MN",
-    "state": "MN",
+    "state": "מינסוטה",
     "party": "dem",
     "fill": "#aed581",
     "total": 191647,
@@ -449,7 +449,7 @@
   },
   {
     "id": "US-MI",
-    "state": "MI",
+    "state": "מישיגן",
     "party": "dem",
     "fill": "#aed581",
     "total": 1188815,
@@ -465,7 +465,7 @@
   },
   {
     "id": "US-ME",
-    "state": "ME",
+    "state": "מיין",
     "party": "dem",
     "fill": "#aed581",
     "total": 3470,
@@ -481,7 +481,7 @@
   },
   {
     "id": "US-MD",
-    "state": "MD",
+    "state": "מרילנד",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 846039,
@@ -497,7 +497,7 @@
   },
   {
     "id": "US-MA",
-    "state": "MA",
+    "state": "מסצ'וסטס",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 1204927,
@@ -513,7 +513,7 @@
   },
   {
     "id": "US-LA",
-    "state": "LA",
+    "state": "לואיזיאנה",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 311613,
@@ -529,7 +529,7 @@
   },
   {
     "id": "US-KY",
-    "state": "KY",
+    "state": "קנטקי",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 454573,
@@ -545,7 +545,7 @@
   },
   {
     "id": "US-KS",
-    "state": "KS",
+    "state": "קנזס",
     "party": "dem",
     "fill": "#aed581",
     "total": 39043,
@@ -561,7 +561,7 @@
   },
   {
     "id": "US-IN",
-    "state": "IN",
+    "state": "אינדיאנה",
     "party": "dem",
     "fill": "#aed581",
     "total": 628857,
@@ -577,7 +577,7 @@
   },
   {
     "id": "US-IL",
-    "state": "IL",
+    "state": "אילינוי",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 2015647,
@@ -593,7 +593,7 @@
   },
   {
     "id": "US-ID",
-    "state": "ID",
+    "state": "איידהו",
     "party": "dem",
     "fill": "#aed581",
     "total": 23884,
@@ -609,7 +609,7 @@
   },
   {
     "id": "US-IA",
-    "state": "IA",
+    "state": "איווה",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 1406,
@@ -625,7 +625,7 @@
   },
   {
     "id": "US-HI",
-    "state": "HI",
+    "state": "הוואי",
     "party": "dem",
     "fill": "#aed581",
     "total": 33716,
@@ -641,7 +641,7 @@
   },
   {
     "id": "US-GA",
-    "state": "GA",
+    "state": "ג'ורג'יה",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 761218,
@@ -657,7 +657,7 @@
   },
   {
     "id": "US-FL",
-    "state": "FL",
+    "state": "פלורידה",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 1702878,
@@ -673,7 +673,7 @@
   },
   {
     "id": "US-DE",
-    "state": "DE",
+    "state": "דלאוור",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 93633,
@@ -689,7 +689,7 @@
   },
   {
     "id": "US-DC",
-    "state": "DC",
+    "state": "וושינגטון די סי",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 95565,
@@ -705,7 +705,7 @@
   },
   {
     "id": "US-CT",
-    "state": "CT",
+    "state": "קונטיקט",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 328322,
@@ -721,7 +721,7 @@
   },
   {
     "id": "US-CO",
-    "state": "CO",
+    "state": "קולורדו",
     "party": "dem",
     "fill": "#aed581",
     "total": 122296,
@@ -737,23 +737,7 @@
   },
   {
     "id": "US-CA",
-    "state": "CA",
-    "party": "dem",
-    "fill": "#64b5f6",
-    "total": 3475720,
-    "cand1": "הילרי קלינטון",
-    "vote1": 1940580,
-    "prcnt1": "55.8%",
-    "cand2": "ברני סנדרס",
-    "vote2": 1502043,
-    "prcnt2": "43.2%",
-    "cand3": "אחרים",
-    "vote3": 33097,
-    "prcnt3": "1%"
-  },
-  {
-    "id": "US-CA",
-    "state": "CA",
+    "state": "קליפורניה",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 3475720,
@@ -769,7 +753,7 @@
   },
   {
     "id": "US-AZ",
-    "state": "AZ",
+    "state": "אריזונה",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 406326,
@@ -785,7 +769,7 @@
   },
   {
     "id": "US-AR",
-    "state": "AR",
+    "state": "ארקנסו",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 218120,
@@ -801,7 +785,7 @@
   },
   {
     "id": "US-AL",
-    "state": "AL",
+    "state": "אלבמה",
     "party": "dem",
     "fill": "#64b5f6",
     "total": 398164,
@@ -817,7 +801,7 @@
   },
   {
     "id": "US-AK",
-    "state": "AK",
+    "state": "אלסקה",
     "party": "dem",
     "fill": "#aed581",
     "total": 539,
