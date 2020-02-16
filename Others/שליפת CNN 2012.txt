@@ -1,0 +1,27 @@
+<script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<body><div id="demo"></div><div id="demo2"></div></body>
+
+<script>
+var localjson = ;
+
+var statejson = ;
+
+document.getElementById("demo").innerHTML = statejson.state  + "," + statejson.code + "," + "total" + ",";
+for (var l = 0; l <= 6; l++) {
+  document.getElementById("demo").innerHTML += statejson.races.P[0].candidates[l].lname + "," + statejson.races.P[0].candidates[l].votes + "," + ",";
+}
+document.getElementById("demo").innerHTML += "<br/>";
+
+for (var i = 0; i <= 999999; i++) {
+ if (typeof localjson.counties[i] === 'undefined') {
+  i = +i;
+ } else {
+  document.getElementById("demo").innerHTML += localjson.counties[i].co_id + "," + statejson.code + "," + "total" + ",";
+  var subfile = localjson.counties[i].race.candidates;
+  for (var j = 0; j < subfile.length; j++) {
+   document.getElementById("demo").innerHTML += subfile[j].lname + "," + subfile[j].votes + "," + ",";
+  }
+  document.getElementById("demo").innerHTML += "<br/>" 
+ }
+}
+</script>

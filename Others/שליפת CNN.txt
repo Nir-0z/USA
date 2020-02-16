@@ -1,0 +1,21 @@
+<script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<body  onload="myFunction()"><div id="demo"></div></body>
+
+<script>
+var data;
+$.getJSON("//raw.githubusercontent.com/NirOzFiles/USA/Election/cnn.json", function(json){
+ data = json;
+});
+
+function myFunction() {
+ for(var i = 0; i < data.counties.length; i++) {
+  document.getElementById("demo").innerHTML += data.counties[i].co_id + ",";
+  var subdata = data.counties[i].race.candidates;
+  for(var j = 0; j < subdata.length; j++) {
+   document.getElementById("demo").innerHTML += subdata[j].lname + "," + subdata[j].votes + ",";
+  }
+ document.getElementById("demo").innerHTML += "<br/>"
+ }
+}
+</script>

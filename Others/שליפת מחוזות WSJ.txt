@@ -1,0 +1,23 @@
+<script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<body><div id="demo"></div></body>
+
+<script>
+var jsondata;
+$.getJSON("http://graphics.wsj.com/live/primary2016/2016-03-01/MN/district.json", function(json){
+ jsondata = json;
+});
+ var file = jsondata.MN.dem;
+ keys = Object.keys(file.data);
+    for (var i = 0; i <= Object.keys(file.data).length; i++) {
+        if (typeof file.data[keys[i]] === 'undefined') {
+            i = +i;
+        } else {
+            document.getElementById("demo").innerHTML += file.data[keys[i]].town + "," + file.meta.statePostal + "," + file.data[keys[i]].totalVotes + ",";
+            var subfile = file.data[keys[i]].Cand;
+            for (var j = 0; j < subfile.length; j++) {
+                document.getElementById("demo").innerHTML += subfile[j].name + "," + subfile[j].votes + "," + ",";
+            }
+            document.getElementById("demo").innerHTML += "<br/>" 
+        }
+    }
+</script>
