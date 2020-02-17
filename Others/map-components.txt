@@ -129,3 +129,41 @@ switch (data[i]["cand"+j]) {
   case "buttigieg":
     data[i]["color"+j] = buttigieg; data[i]["name"+j] = "פיט בוטיג'ג'"; break;
 }
+
+
+// גבולות למדינות
+usamap.mapPolygons.template.zIndex = 0;
+usamap.mapPolygons.template.states.create("hover").properties.strokeWidth = 2;
+usamap.mapPolygons.template.states.create("hover").properties.stroke = am4core.color("#000");
+usamap.mapPolygons.template.states.create("hover").properties.zIndex = 1;
+
+// צביעה ושמות מתמודדים גרסה ישנה
+ for (var i = 0; i < data.length; i++) {
+  for (var j = 0; j <= 6; j++) {
+   if (data[i]["cand"+j] == "trump") { data[i]["color"+j] = trump[0]; data[i]["name"+j] = "דונלד טראמפ"; }
+   if (data[i]["cand"+j] == "cruz") { data[i]["color"+j] = cruz[0]; data[i]["name"+j] = "טד קרוז"; }
+   if (data[i]["cand"+j] == "rubio") { data[i]["color"+j] = rubio[0]; data[i]["name"+j] = "מרקו רוביו"; }
+   if (data[i]["cand"+j] == "kasich") { data[i]["color"+j] = kasich[0]; data[i]["name"+j] = "ג'ון קייסיק"; }
+   if (data[i]["cand"+j] == "carson") { data[i]["color"+j] = carson[0]; data[i]["name"+j] = "בן קרסון"; }
+   if (data[i]["cand"+j] == "bush") { data[i]["color"+j] = others[0]; data[i]["name"+j] = "ג'ב בוש"; }
+   if (data[i]["cand"+j] == "paul") { data[i]["color"+j] = others[0]; data[i]["name"+j] = "ראנד פול"; }
+   if (data[i]["cand"+j] == "weld") { data[i]["color"+j] = weld[0]; data[i]["name"+j] = "ביל וולד"; }
+   if (data[i]["cand"+j] == "walsh") { data[i]["color"+j] = walsh[0]; data[i]["name"+j] = "ג'ו וולש"; }
+   if (data[i]["cand"+j] == "clinton") { data[i]["color"+j] = clinton[0]; data[i]["name"+j] = "הילרי קלינטון"; }
+   if (data[i]["cand"+j] == "sanders") { data[i]["color"+j] = sanders[0]; data[i]["name"+j] = "ברני סנדרס"; }
+   if (data[i]["cand"+j] == "biden") { data[i]["color"+j] = biden[0]; data[i]["name"+j] = "ג'ו ביידן"; }
+   if (data[i]["cand"+j] == "buttigieg") { data[i]["color"+j] = buttigieg[0]; data[i]["name"+j] = "פיט בוטיג'ג'"; }
+   if (data[i]["cand"+j] == "warren") { data[i]["color"+j] = warren[0]; data[i]["name"+j] = "אליזבת וורן"; }
+   if (data[i]["cand"+j] == "klobuchar") { data[i]["color"+j] = klobuchar;[0] data[i]["name"+j] = "איימי קלובשר"; }
+   if (data[i]["cand"+j] == "yang") { data[i]["color"+j] = others[0]; data[i]["name"+j] = "אנדרו יאנג"; }
+   if (data[i]["cand"+j] == "others") { data[i]["color"+j] = others[0]; data[i]["name"+j] = "אחרים";  }
+   if (data[i]["vote1"] == data[i]["vote2"]) { data[i]["fill"] = tie; }
+  else {  data[i]["fill"] = data[i]["color1"]; }
+  }
+ }
+
+// סגנון מפה עדכני
+<script src="//www.amcharts.com/lib/4/geodata/usaAlbersLow.js"></script>
+chart.projection = new am4maps.projections.Mercator();
+usamap.exclude = ["US-AK","US-HI"];
+
