@@ -167,3 +167,26 @@ usamap.mapPolygons.template.states.create("hover").properties.zIndex = 1;
 chart.projection = new am4maps.projections.Mercator();
 usamap.exclude = ["US-AK","US-HI"];
 
+// גיבוי זום אין
+usamap.mapPolygons.template.events.on("hit", function(ev) {
+ ev.target.series.chart.zoomToMapObject(ev.target,4);
+ statemap.data = [];
+  if (ev.target.dataItem.dataContext.cand1 == null) {
+ statemap.geodataSource.url = "//www.amcharts.com/lib/4/geodata/json/region/usa/" + ev.target.dataItem.dataContext.id.substring(3, 5).toLowerCase() + "Low.json";
+} else {
+ if (ev.target.dataItem.dataContext.id == "US-MN" || ev.target.dataItem.dataContext.id == "US-KS") {
+ statemap.geodataSource.url = "//raw.githubusercontent.com/NirOzFiles/USA/Election/Maps/" + ev.target.dataItem.dataContext.id.substring(3, 5).toLowerCase() + "Low.json";
+ statemap.dataSource.url = "//raw.githubusercontent.com/NirOzFiles/USA/Election/Results/" + year + "/Primaries/" + party + "/" + ev.target.dataItem.dataContext.id.substring(3, 5) + ".json";
+ statemap.dataSource.load();
+ statemap.geodataSource.load();
+ } else if (ev.target.dataItem.dataContext.id == "US-ND" || ev.target.dataItem.dataContext.id == "US-AK" || ev.target.dataItem.dataContext.id == "US-DC") {
+ } else {
+ statemap.geodataSource.url = "//www.amcharts.com/lib/4/geodata/json/region/usa/" + ev.target.dataItem.dataContext.id.substring(3, 5).toLowerCase() + "Low.json";
+ statemap.geodataSource.load();
+ statemap.dataSource.url = "//raw.githubusercontent.com/NirOzFiles/USA/Election/Results/" + year + "/Primaries/" + party + "/" + ev.target.dataItem.dataContext.id.substring(3, 5) + ".json";
+ statemap.dataSource.load();
+ }
+ statemap.show();
+}
+ homebutton.show();
+});
