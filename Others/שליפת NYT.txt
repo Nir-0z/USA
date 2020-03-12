@@ -8,13 +8,13 @@ $.getJSON("//int.nyt.com/applications/elections/2020/data/api/2020-02-11/new-ham
 });
 
 var file = jsondata.data.races[0];
-  document.getElementById("demo").innerHTML += "US-" + file.state_id + "," + file.state_id + "," + file.votes + ",";
-for (var i = 0; i <= 33; i++) {
+document.getElementById("demo").innerHTML += "US-" + file.state_id + "," + file.state_id + "," + file.votes + ",";
+for (var i = 0; i < file.candidates.length; i++) {
  document.getElementById("demo").innerHTML +=file.candidates[i].candidate_key + "," + file.candidates[i].votes + "," + ",";
 }
  document.getElementById("demo").innerHTML += "<br/>"
 for (var i = 0; i <= 999999; i++) {
-  document.getElementById("demo").innerHTML += file.counties[i].fips+ "," + "IA" + "," + file.counties[i].votes + ",";
+  document.getElementById("demo").innerHTML += file.counties[i].fips+ "," + file.state_id + "," + file.counties[i].votes + ",";
   var subfile = file.counties[i].results;
   keys = Object.keys(file.counties[i].results);
   for (var j = 0; j < Object.keys(file.counties[i].results).length; j++) {
