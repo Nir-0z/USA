@@ -2,26 +2,26 @@
 
 <script src="//www.amcharts.com/lib/4/core.js"></script>
 <script src="//www.amcharts.com/lib/4/maps.js"></script>
-<script src="//www.amcharts.com/lib/4/geodata/region/usa/iaLow.js"></script>
+<script src="//www.amcharts.com/lib/4/geodata/region/usa/txLow.js"></script>
 
 <script>
 var clinton = "#64b5f6"; var omalley = "#80deea"; var others = "#aaa"; var tie = "#999"; var biden = "#64b5f6"; var sanders = "#81d4fa"; var warren = "#80deea"; var buttigieg = "#80cbc4"; var klobuchar = "#a5d6a7";
 
 var chart = am4core.create("chartdiv", am4maps.MapChart);
-chart.geodata = am4geodata_region_usa_iaLow;
+chart.geodata = am4geodata_region_usa_txLow;
 chart.projection = new am4maps.projections.Mercator();
 
 var polygonSeries = chart.series.push(new am4maps.MapPolygonSeries());
 polygonSeries.useGeodata = true;
 polygonSeries.calculateVisualCenter = true;
 polygonSeries.mapPolygons.template.fill = "#eee";
-polygonSeries.dataSource.url = "//raw.githubusercontent.com/NirOzFiles/USA/Election/Results/2016/Primaries/Dem/IA.json";
+polygonSeries.dataSource.url = "//raw.githubusercontent.com/NirOzFiles/USA/Election/Results/2016/Primaries/Dem/TX.json";
 
 polygonSeries.mapPolygons.template.tooltipText = "{name1}";
 polygonSeries.dataSource.events.on("parseended", function(ev) { colorize(ev.target.data); });
 
 var imageSeries = chart.series.push(new am4maps.MapImageSeries());
-imageSeries.dataSource.url = "//raw.githubusercontent.com/NirOzFiles/USA/Election/Results/2016/Primaries/Dem/IA.json";
+imageSeries.dataSource.url = "//raw.githubusercontent.com/NirOzFiles/USA/Election/Results/2016/Primaries/Dem/TX.json";
 imageSeries.dataSource.events.on("parseended", function(ev) { colorize(ev.target.data); });
 imageSeries.dataFields.value = "vote1";
 
@@ -44,6 +44,8 @@ function colorize(data) {
 var circle = imageSeries.mapImages.template.createChild(am4core.Circle);
 circle.propertyFields.fill = "color1";
 circle.tooltipText = "{name1}";
+circle.strokeWidth = 1;
+circle.stroke = am4core.color("#fff");
 
 imageSeries.heatRules.push({
   "target": circle,
