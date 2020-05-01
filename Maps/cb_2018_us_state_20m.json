@@ -5887,10 +5887,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.02, 38.91]
+        "coordinates": [
+          -77.02,
+          38.91
+        ]
       },
       "properties": {
         "radius": 10000,
+        "shape": "Circle",
         "id": "US-DC",
         "name": "District of Columbia",
         "votes": "3"
