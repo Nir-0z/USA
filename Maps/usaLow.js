@@ -4265,7 +4265,6 @@ am4internal_webpackJsonp(["4f3f"], {
                 properties: {
                     name: "Texas",
                     id: "US-TX",
-                    brk: </br>,
                     votes: "38"
                 },
                 id: "US-TX"
