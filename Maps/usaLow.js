@@ -1191,8 +1191,7 @@ am4internal_webpackJsonp(["4f3f"], {
                 properties: {
                     name: "Alabama",
                     id: "US-AL",
-                    CNTRY: "United States of America",
-                    TYPE: "State"
+                    votes: "3"
                 },
                 id: "US-AL"
             }, {
