@@ -3589,6 +3589,22 @@ am4internal_webpackJsonp(["4f3f"], {
                     votes: "3"
                 },
                 id: "US-WY"
+            }, {
+                type: "Feature",
+                geometry: {
+                    type: "Polygon",
+                    coordinates: [
+                        [
+
+                        ]
+                    ]
+                },
+                properties: {
+                    name: "Hawaii",
+                    id: "US-HI",
+                    votes: "4"
+                },
+                id: "US-HI"
             }]
         }
     }
