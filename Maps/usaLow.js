@@ -418,7 +418,7 @@ am4internal_webpackJsonp(["4f3f"], {
                 properties: {
                     name: "District of Columbia",
                     id: "US-DC",
-                    TYPE: "Federal District"
+                    votes: "3"
                 },
                 id: "US-DC"
             }, {
