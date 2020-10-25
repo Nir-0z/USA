@@ -4059,17 +4059,21 @@ am4internal_webpackJsonp(["4f3f"], {
             },{
                 type: "Feature",
                 geometry: {
-                    type: "Point",
+                    type: "Polygon",
                     coordinates: [
-                        [[-89.945015, 26.943939]]
+                        [
+                            [-72.5,26],
+                            [-75,26],
+                            [-75,28],
+                            [-72.5,28],
+                            [-72.5,26]
+                        ]
                     ]
                 },
                 properties: {
-                    name: "Bdika",
+                    name: "Alabama",
                     id: "US-PR",
-                    votes: "3",
-                    "shape": "Circle",
-                    "radius": 133317
+                    votes: "3"
                 },
                 id: "US-PR"
             }]
