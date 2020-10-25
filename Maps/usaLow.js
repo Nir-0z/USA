@@ -4066,12 +4066,12 @@ am4internal_webpackJsonp(["4f3f"], {
                 },
                 properties: {
                     name: "Bdika",
-                    id: "US-bd",
+                    id: "US-PR",
                     votes: "3",
                     "shape": "Circle",
                     "radius": 133317
                 },
-                id: "US-bd"
+                id: "US-PR"
             }]
         }
     }
