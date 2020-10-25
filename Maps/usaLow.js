@@ -4061,7 +4061,7 @@ am4internal_webpackJsonp(["4f3f"], {
                 geometry: {
                     type: "Point",
                     coordinates: [
-                        [-89.945015, 26.943939]
+                        [[-89.945015, 26.943939]]
                     ]
                 },
                 properties: {
@@ -4069,7 +4069,7 @@ am4internal_webpackJsonp(["4f3f"], {
                     id: "US-bd",
                     votes: "3",
                     "shape": "Circle",
-                    "radius": 133317.04723158528
+                    "radius": 133317
                 },
                 id: "US-bd"
             }]
