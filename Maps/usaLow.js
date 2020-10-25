@@ -53,8 +53,8 @@ am4internal_webpackJsonp(["4f3f"], {
                     ]
                 },
                 properties: {
-                    name: "Alabama",
-                    id: "US-AL",
+                    name: "Bdika",
+                    id: "US-bdika",
                     votes: "3"
                 },
                 id: "US-bdika"
