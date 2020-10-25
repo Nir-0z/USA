@@ -4056,26 +4056,6 @@ am4internal_webpackJsonp(["4f3f"], {
                     votes: "3"
                 },
                 id: "US-AK"
-            },{
-                type: "Feature",
-                geometry: {
-                    type: "Polygon",
-                    coordinates: [
-                        [
-                    [-97, 40],
-                    [-97, 42],
-                    [-99, 42],
-                    [-99, 40],
-                    [-97, 40]
-                        ]
-                    ]
-                },
-                properties: {
-                    name: "Alabama",
-                    id: "US-PR",
-                    votes: "3"
-                },
-                id: "US-PR"
             }]
         }
     }
