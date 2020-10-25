@@ -4061,7 +4061,7 @@ am4internal_webpackJsonp(["4f3f"], {
                 geometry: {
                     type: "Point",
                     coordinates: [
-                        [[-98.201975, 41.119067]]
+                        [-89.945015, 26.943939]
                     ]
                 },
                 properties: {
