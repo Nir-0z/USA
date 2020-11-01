@@ -55,7 +55,7 @@ am4internal_webpackJsonp(["4f3f"], {
                 properties: {
                     name: "Alabama",
                     id: "US-AL",
-                    votes: "3"
+                    votes: "9"
                 },
                 id: "US-AL"
             }, {
