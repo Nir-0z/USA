@@ -1,52 +1,52 @@
-﻿id,state,votes,status
-US-AK,אלסקה,3,Tossup
-US-AL,אלבמה,9,Tossup
-US-AR,ארקנסו,6,Tossup
-US-AZ,אריזונה,11,Tossup
-US-CA,קליפורניה,55,Tossup
-US-CO,קולורדו,9,Tossup
-US-CT,קונטיקט,7,Tossup
-US-DC,וושינגטון די סי,3,Tossup
-US-DE,דלאוור,3,Tossup
-US-FL,פלורידה,29,Tossup
-US-GA,ג'ורג'יה,16,Tossup
-US-HI,הוואי,4,Tossup
-US-IA,איווה,6,Tossup
-US-ID,איידהו,4,Tossup
-US-IL,אילינוי,20,Tossup
-US-IN,אינדיאנה,11,Tossup
-US-KS,קנזס,6,Tossup
-US-KY,קנטקי,8,Tossup
-US-LA,לואיזיאנה,8,Tossup
-US-MA,מסצ'וסטס,11,Tossup
-US-MD,מרילנד,10,Tossup
-US-ME,מיין,4,Tossup
-US-MI,מישיגן,16,Tossup
-US-MN,מינסוטה,10,Tossup
-US-MO,מיזורי,10,Tossup
-US-MS,מיסיסיפי,6,Tossup
-US-MT,מונטנה,3,Tossup
-US-NC,קרוליינה הצפונית,15,Tossup
-US-ND,דקוטה הצפונית,3,Tossup
-US-NE,נברסקה,5,Tossup
-US-NH,ניו המפשייר,4,Tossup
-US-NJ,ניו ג'רזי,14,Tossup
-US-NM,ניו מקסיקו,5,Tossup
-US-NV,נבדה,6,Tossup
-US-NY,ניו יורק,29,Tossup
-US-OH,אוהיו,18,Tossup
-US-OK,אוקלהומה,7,Tossup
-US-OR,אורגון,7,Tossup
-US-PA,פנסילבניה,20,Tossup
-US-RI,רוד איילנד,4,Tossup
-US-SC,קרוליינה הדרומית,9,Tossup
-US-SD,דקוטה הדרומית,3,Tossup
-US-TN,טנסי,11,Tossup
-US-TX,טקסס,38,Tossup
-US-UT,יוטה,6,Tossup
-US-VA,וירג'יניה,13,Tossup
-US-VT,ורמונט,3,Tossup
-US-WA,וושינגטון,12,Tossup
-US-WI,ויסקונסין,10,Tossup
-US-WV,וירג'יניה המערבית,5,Tossup
-US-WY,ויומינג,3,Tossup
+﻿id,state,votes,status,closing
+US-AK,אלסקה,3,Voting,
+US-AL,אלבמה,9,Tossup,
+US-AR,ארקנסו,6,Tossup,
+US-AZ,אריזונה,11,Tossup,
+US-CA,קליפורניה,55,Tossup,
+US-CO,קולורדו,9,Tossup,
+US-CT,קונטיקט,7,Tossup,
+US-DC,וושינגטון די סי,3,Tossup,
+US-DE,דלאוור,3,Tossup,
+US-FL,פלורידה,29,Tossup,
+US-GA,ג'ורג'יה,16,Tossup,
+US-HI,הוואי,4,Tossup,
+US-IA,איווה,6,Tossup,
+US-ID,איידהו,4,Tossup,
+US-IL,אילינוי,20,Tossup,
+US-IN,אינדיאנה,11,Tossup,
+US-KS,קנזס,6,Tossup,
+US-KY,קנטקי,8,Tossup,
+US-LA,לואיזיאנה,8,Tossup,
+US-MA,מסצ'וסטס,11,Tossup,
+US-MD,מרילנד,10,Tossup,
+US-ME,מיין,4,Tossup,
+US-MI,מישיגן,16,Tossup,
+US-MN,מינסוטה,10,Tossup,
+US-MO,מיזורי,10,Tossup,
+US-MS,מיסיסיפי,6,Tossup,
+US-MT,מונטנה,3,Tossup,
+US-NC,קרוליינה הצפונית,15,Tossup,
+US-ND,דקוטה הצפונית,3,Tossup,
+US-NE,נברסקה,5,Tossup,
+US-NH,ניו המפשייר,4,Tossup,
+US-NJ,ניו ג'רזי,14,Tossup,
+US-NM,ניו מקסיקו,5,Tossup,
+US-NV,נבדה,6,Tossup,
+US-NY,ניו יורק,29,Tossup,
+US-OH,אוהיו,18,Tossup,
+US-OK,אוקלהומה,7,Tossup,
+US-OR,אורגון,7,Tossup,
+US-PA,פנסילבניה,20,Tossup,
+US-RI,רוד איילנד,4,Tossup,
+US-SC,קרוליינה הדרומית,9,Tossup,
+US-SD,דקוטה הדרומית,3,Tossup,
+US-TN,טנסי,11,Tossup,
+US-TX,טקסס,38,Tossup,
+US-UT,יוטה,6,Tossup,
+US-VA,וירג'יניה,13,Tossup,
+US-VT,ורמונט,3,Tossup,
+US-WA,וושינגטון,12,Tossup,
+US-WI,ויסקונסין,10,Tossup,
+US-WV,וירג'יניה המערבית,5,Tossup,
+US-WY,ויומינג,3,Tossup,
