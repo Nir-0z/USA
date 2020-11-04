@@ -1,10 +1,10 @@
 ﻿id,state,votes,status,
-US-GA,ג'ורג'יה,16,Tossup,2
-US-IN,אינדיאנה,11,Tossup,2
-US-KY,קנטקי,8,Tossup,2
-US-VA,וירג'יניה,13,Tossup,2
-US-VT,ורמונט,3,Tossup,2
-US-SC,קרוליינה הדרומית,9,Tossup,2
+US-GA,ג'ורג'יה,16,Voting,2
+US-IN,אינדיאנה,11,Rep,2
+US-KY,קנטקי,8,Voting,2
+US-VA,וירג'יניה,13,Voting,2
+US-VT,ורמונט,3,Voting,2
+US-SC,קרוליינה הדרומית,9,Voting,2
 US-NC,קרוליינה הצפונית,15,Tossup,2.5
 US-OH,אוהיו,18,Tossup,2.5
 US-WV,וירג'יניה המערבית,5,Tossup,2.5
