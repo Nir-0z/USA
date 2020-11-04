@@ -1,52 +1,52 @@
 ﻿id,state,votes,status,
 US-GA,ג'ורג'יה,16,Voting,2
+US-NC,קרוליינה הצפונית,15,Voting,2.5
+US-PA,פנסילבניה,20,Voting,3
+US-MI,מישיגן,16,Voting,4
+US-NV,נבדה,6,Voting,5
+US-AK,אלסקה,3,Voting,7
 US-IN,אינדיאנה,11,Rep,2
 US-KY,קנטקי,8,Rep,2
-US-VA,וירג'יניה,13,Dem,2
-US-VT,ורמונט,3,Dem,2
 US-SC,קרוליינה הדרומית,9,Rep,2
-US-NC,קרוליינה הצפונית,15,Voting,2.5
 US-OH,אוהיו,18,Rep,2.5
 US-WV,וירג'יניה המערבית,5,Rep,2.5
 US-FL,פלורידה,29,Rep,3
-US-ME,מיין,4,Dem,3
-US-NH,ניו המפשייר,4,Dem,3
 US-AL,אלבמה,9,Rep,3
-US-IL,אילינוי,20,Dem,3
 US-MO,מיזורי,10,Rep,3
 US-MS,מיסיסיפי,6,Rep,3
 US-OK,אוקלהומה,7,Rep,3
 US-TN,טנסי,11,Rep,3
+US-AR,ארקנסו,6,Rep,3.5
+US-SD,דקוטה הדרומית,3,Rep,4
+US-IA,איווה,6,Rep,4
+US-KS,קנזס,6,Rep,4
+US-LA,לואיזיאנה,8,Rep,4
+US-ND,דקוטה הצפונית,3,Rep,4
+US-NE,נברסקה,5,Rep,4
+US-TX,טקסס,38,Rep,4
+US-WY,ויומינג,3,Rep,4
+US-MT,מונטנה,3,Rep,5
+US-UT,יוטה,6,Rep,5
+US-ID,איידהו,4,Rep,6
+US-VA,וירג'יניה,13,Dem,2
+US-VT,ורמונט,3,Dem,2
+US-ME,מיין,4,Dem,3
+US-NH,ניו המפשייר,4,Dem,3
+US-IL,אילינוי,20,Dem,3
 US-CT,קונטיקט,7,Dem,3
 US-DC,וושינגטון די סי,3,Dem,3
 US-DE,דלאוור,3,Dem,3
 US-MA,מסצ'וסטס,11,Dem,3
 US-MD,מרילנד,10,Dem,3
 US-NJ,ניו ג'רזי,14,Dem,3
-US-PA,פנסילבניה,20,Voting,3
 US-RI,רוד איילנד,4,Dem,3
-US-AR,ארקנסו,6,Rep,3.5
-US-SD,דקוטה הדרומית,3,Rep,4
 US-AZ,אריזונה,11,Dem,4
 US-CO,קולורדו,9,Dem,4
-US-IA,איווה,6,Rep,4
-US-KS,קנזס,6,Rep,4
-US-LA,לואיזיאנה,8,Rep,4
-US-MI,מישיגן,16,Voting,4
 US-MN,מינסוטה,10,Dem,4
-US-ND,דקוטה הצפונית,3,Rep,4
-US-NE,נברסקה,5,Rep,4
 US-NM,ניו מקסיקו,5,Dem,4
 US-NY,ניו יורק,29,Dem,4
-US-TX,טקסס,38,Rep,4
 US-WI,ויסקונסין,10,Dem,4
-US-WY,ויומינג,3,Rep,4
-US-MT,מונטנה,3,Rep,5
-US-NV,נבדה,6,Voting,5
-US-UT,יוטה,6,Rep,5
 US-CA,קליפורניה,55,Dem,6
 US-HI,הוואי,4,Dem,6
-US-ID,איידהו,4,Rep,6
 US-OR,אורגון,7,Dem,6
 US-WA,וושינגטון,12,Dem,6
-US-AK,אלסקה,3,Voting,7
