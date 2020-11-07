@@ -1,10 +1,29 @@
 ﻿id,state,votes,status,
-US-GA,ג'ורג'יה,16,Voting,2
-US-NC,קרוליינה הצפונית,15,Voting,2.5
-US-PA,פנסילבניה,20,Voting,3
+US-PA,פנסילבניה,20,Dem,3
 US-MI,מישיגן,16,Dem,4
-US-NV,נבדה,6,Voting,5
-US-AK,אלסקה,3,Voting,7
+US-NV,נבדה,6,Dem,5
+US-VA,וירג'יניה,13,Dem,2
+US-VT,ורמונט,3,Dem,2
+US-ME,מיין,4,Dem,3
+US-NH,ניו המפשייר,4,Dem,3
+US-IL,אילינוי,20,Dem,3
+US-CT,קונטיקט,7,Dem,3
+US-DC,וושינגטון די סי,3,Dem,3
+US-DE,דלאוור,3,Dem,3
+US-MA,מסצ'וסטס,11,Dem,3
+US-MD,מרילנד,10,Dem,3
+US-NJ,ניו ג'רזי,14,Dem,3
+US-RI,רוד איילנד,4,Dem,3
+US-AZ,אריזונה,11,Dem,4
+US-CO,קולורדו,9,Dem,4
+US-MN,מינסוטה,10,Dem,4
+US-NM,ניו מקסיקו,5,Dem,4
+US-NY,ניו יורק,29,Dem,4
+US-WI,ויסקונסין,10,Dem,4
+US-CA,קליפורניה,55,Dem,6
+US-HI,הוואי,4,Dem,6
+US-OR,אורגון,7,Dem,6
+US-WA,וושינגטון,12,Dem,6
 US-IN,אינדיאנה,11,Rep,2
 US-KY,קנטקי,8,Rep,2
 US-SC,קרוליינה הדרומית,9,Rep,2
@@ -28,25 +47,6 @@ US-WY,ויומינג,3,Rep,4
 US-MT,מונטנה,3,Rep,5
 US-UT,יוטה,6,Rep,5
 US-ID,איידהו,4,Rep,6
-US-VA,וירג'יניה,13,Dem,2
-US-VT,ורמונט,3,Dem,2
-US-ME,מיין,4,Dem,3
-US-NH,ניו המפשייר,4,Dem,3
-US-IL,אילינוי,20,Dem,3
-US-CT,קונטיקט,7,Dem,3
-US-DC,וושינגטון די סי,3,Dem,3
-US-DE,דלאוור,3,Dem,3
-US-MA,מסצ'וסטס,11,Dem,3
-US-MD,מרילנד,10,Dem,3
-US-NJ,ניו ג'רזי,14,Dem,3
-US-RI,רוד איילנד,4,Dem,3
-US-AZ,אריזונה,11,Dem,4
-US-CO,קולורדו,9,Dem,4
-US-MN,מינסוטה,10,Dem,4
-US-NM,ניו מקסיקו,5,Dem,4
-US-NY,ניו יורק,29,Dem,4
-US-WI,ויסקונסין,10,Dem,4
-US-CA,קליפורניה,55,Dem,6
-US-HI,הוואי,4,Dem,6
-US-OR,אורגון,7,Dem,6
-US-WA,וושינגטון,12,Dem,6
+US-GA,ג'ורג'יה,16,Voting,2
+US-NC,קרוליינה הצפונית,15,Voting,2.5
+US-AK,אלסקה,3,Voting,7
