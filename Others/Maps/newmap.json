@@ -1,16 +1,16 @@
 {
-    type: "FeatureCollection",
-    features: [{
-        type: "Feature",
-        id: "US-AL",
-        properties: {
-            name: "Alabama",
-            id: "US-AL",
-            votes: "9"
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "id": "US-AL",
+        "properties": {
+            "name": "Alabama",
+            "id": "US-AL",
+            "votes": "9"
         },
-        geometry: {
-            type: "Polygon",
-            coordinates: [
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
                 [
                     [-85.6235, 35.0009],
                     [-86.9071, 35.0129],
@@ -53,16 +53,16 @@
             ]
         }
     }, {
-        type: "Feature",
-        id: "US-MS",
-        properties: {
-            name: "Mississippi",
-            id: "US-MS",
-            votes: "6"
+        "type": "Feature",
+        "id": "US-MS",
+        "properties": {
+            "name": "Mississippi",
+            "id": "US-MS",
+            "votes": "6"
         },
-        geometry: {
-            type: "Polygon",
-            coordinates: [
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
                 [
                     [-88.1733, 34.999],
                     [-89.2418, 35],
