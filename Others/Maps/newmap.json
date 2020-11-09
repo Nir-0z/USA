@@ -2,15 +2,6 @@
     "type": "FeatureCollection",
     "features": [{
         "type": "Feature",
-        "id": "2701",
-        "properties": {
-            "name": "Congressional District 1",
-            "id": "2701",
-            "STATEID": "27",
-            "CD116": "01",
-            "CDSESSION": "116",
-            "STATENAME": "Minnesota"
-        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -362,18 +353,18 @@
                     [-91.858, 44.193]
                 ]
             ]
-        }
-    }, {
-        "type": "Feature",
-        "id": "2702",
+        },
         "properties": {
-            "name": "Congressional District 2",
-            "id": "2702",
+            "name": "Congressional District 1",
+            "id": "2701",
             "STATEID": "27",
-            "CD116": "02",
+            "CD116": "01",
             "CDSESSION": "116",
             "STATENAME": "Minnesota"
         },
+        "id": "2701"
+    }, {
+        "type": "Feature",
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -807,6 +798,15 @@
                     [-92.77, 44.862]
                 ]
             ]
-        }
+        },
+        "properties": {
+            "name": "Congressional District 2",
+            "id": "2702",
+            "STATEID": "27",
+            "CD116": "02",
+            "CDSESSION": "116",
+            "STATENAME": "Minnesota"
+        },
+        "id": "2702"
     }]
 }
