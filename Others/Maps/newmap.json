@@ -2,11 +2,14 @@
     "type": "FeatureCollection",
     "features": [{
         "type": "Feature",
-        "id": "US-AL",
+        "id": "2701",
         "properties": {
-            "name": "Alabama",
-            "id": "US-AL",
-            "votes": "9"
+            "name": "Congressional District 1",
+            "id": "2701",
+            "STATEID": "27",
+            "CD116": "01",
+            "CDSESSION": "116",
+            "STATENAME": "Minnesota"
         },
         "geometry": {
             "type": "Polygon",
@@ -362,11 +365,14 @@
         }
     }, {
         "type": "Feature",
-        "id": "US-MS",
+        "id": "2702",
         "properties": {
-            "name": "Mississippi",
-            "id": "US-MS",
-            "votes": "6"
+            "name": "Congressional District 2",
+            "id": "2702",
+            "STATEID": "27",
+            "CD116": "02",
+            "CDSESSION": "116",
+            "STATENAME": "Minnesota"
         },
         "geometry": {
             "type": "Polygon",
