@@ -49,5 +49,5 @@
 {"type":"Feature","geometry":{"type":"Polygon","id":"US-WA","coordinates":[]},"properties":{"id":"US-WA","name":"Washington","hebrew":"וושינגטון","votes":"12"}},
 {"type":"Feature","geometry":{"type":"Polygon","id":"US-WI","coordinates":[]},"properties":{"id":"US-WI","name":"Wisconsin","hebrew":"ויסקונסין","votes":"10"}},
 {"type":"Feature","geometry":{"type":"Polygon","id":"US-WV","coordinates":[]},"properties":{"id":"US-WV","name":"West Virginia","hebrew":"וירג'יניה המערבית","votes":"5"}},
-{"type":"Feature","geometry":{"type":"Polygon","id":"US-WY","coordinates":[]},"properties":{"id":"US-WY","name":"Wyoming","hebrew":"ויומינג","votes":"3"}},
+{"type":"Feature","geometry":{"type":"Polygon","id":"US-WY","coordinates":[]},"properties":{"id":"US-WY","name":"Wyoming","hebrew":"ויומינג","votes":"3"}}
 ]}
